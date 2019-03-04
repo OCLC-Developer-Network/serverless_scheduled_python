@@ -10,7 +10,7 @@ from requests_aws4auth import AWS4Auth
 import yaml
 
 eshost = 'search-test-item-es-instance-aeewahpkldqvswqovzprrio7py.us-east-1.es.amazonaws.com' # For example, my-test-domain.us-east-1.es.amazonaws.com
-region = 'us-east-1' # e.g. us-west-1
+region = 'us-east-1' # e.g. us-east-1
 
 service = 'es'
 credentials = boto3.Session().get_credentials()
@@ -80,12 +80,10 @@ def run(event, context):
             normalizedNumber = pycn.callnumber(row['Item_Call_Number'])
             row['n_callnumber'] = normalizedNumber
         writer.writerow(row)
+
+    indexFile = csv.DictReader(io.StringIO(output.getvalue()), dialect="piper")
     
-    #helpers.bulk(es, csv.DictReader(output), index='items', doc_type='_doc')
+    helpers.bulk(es, indexFile, index='items', doc_type='_doc')
     
-    
-    #bucket = "sftp-content"
-    #filename = "updated_item_list.csv"
+    return "success"
              
-    # write to S3
-    #s3.put_object(Body=output.getvalue(), Bucket=bucket, Key=filename)           
