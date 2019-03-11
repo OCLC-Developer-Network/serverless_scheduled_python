@@ -51,7 +51,7 @@ def run(event, context):
                             
     output = io.StringIO()
 
-    fieldnames = ['Institution_Symbol','Item_Holding_Location','Item_Permanent_Shelving_Location','Item_Temporary_Shelving_Location','Item_Type','Item_Call_Number','Item_Enumeration_and_Chronology','Author_Name','Title','Material_Format','OCLC_Number','Item_Barcode','Item_Status_Current_Status','n_callnumber']
+    fieldnames = ['Institution_Symbol','Item_Holding_Location','Item_Permanent_Shelving_Location','Item_Temporary_Shelving_Location','Item_Type','Item_Call_Number','Item_Enumeration_and_Chronology','Author_Name','Title','Material_Format','OCLC_Number','Item_Barcode','Item_Status_Current_Status','n_callnumber_sort', 'n_callnumber_search', 'classifiation', 'class_letters']
     
     writer = csv.DictWriter(output, fieldnames=fieldnames, dialect="piper", escapechar='\\')
 
@@ -78,7 +78,11 @@ def run(event, context):
         # loop through and normalize call number
         if row['Item_Call_Number']:
             normalizedNumber = pycn.callnumber(row['Item_Call_Number'])
-            row['n_callnumber'] = normalizedNumber
+            row['n_callnumber_sort'] = normalizedNumber.for_sort()
+            row['n_callnumber_search'] = normalizedNumber.for_search()
+            row['cn_classification'] = normalizedNumber.classification
+            if type(normalizedNumber) is a LC:
+                row['cn_class_letters'] = normalizedNumber.classification.letters
         writer.writerow(row)
 
     indexFile = csv.DictReader(io.StringIO(output.getvalue()), dialect="piper")
