@@ -51,7 +51,7 @@ def run(event, context):
                             
     output = io.StringIO()
 
-    fieldnames = ['Institution_Symbol','Item_Holding_Location','Item_Permanent_Shelving_Location','Item_Temporary_Shelving_Location','Item_Type','Item_Call_Number','Item_Enumeration_and_Chronology','Author_Name','Title','Material_Format','OCLC_Number','Item_Barcode','Item_Status_Current_Status','n_callnumber_sort', 'n_callnumber_search', 'classifiation', 'class_letters']
+    fieldnames = ['Institution_Symbol','Item_Holding_Location','Item_Permanent_Shelving_Location','Item_Temporary_Shelving_Location','Item_Type','Item_Call_Number','Item_Enumeration_and_Chronology','Author_Name','Title', 'Publication_Date', 'Material_Format','OCLC_Number','Item_Barcode','Item_Status_Current_Status','cn_type', 'n_callnumber_sort', 'n_callnumber_search', 'cn_classification', 'cn_class_letters']
     
     writer = csv.DictWriter(output, fieldnames=fieldnames, dialect="piper", escapechar='\\')
 
@@ -60,7 +60,6 @@ def run(event, context):
     for row in csv_read:
         del row['LHR_Item_Materials_Specified']
         del row['Title_ISBN']
-        del row['Publication_Date']
         del row['LHR_Item_Cost']
         del row['LHR_Item_Nonpublic_Note']
         del row['LHR_Item_Public_Note']
@@ -78,16 +77,57 @@ def run(event, context):
         # loop through and normalize call number
         if row['Item_Call_Number']:
             normalizedNumber = pycn.callnumber(row['Item_Call_Number'])
+            row['cn_type'] = normalizedNumber.__class__.__name__
+            try:
+                row['cn_classification'] = normalizedNumber.classification
+            except AttributeError:
+                row['cn_classification'] = ""
+            if isinstance(normalizedNumber, pycn.units.LC):
+                try:
+                    row['cn_class_letters'] = normalizedNumber.classification.letters
+                except AttributeError:
+                    row['cn_class_letters'] = ""    
             row['n_callnumber_sort'] = normalizedNumber.for_sort()
             row['n_callnumber_search'] = normalizedNumber.for_search()
-            row['cn_classification'] = normalizedNumber.classification
-            if type(normalizedNumber) is a LC:
-                row['cn_class_letters'] = normalizedNumber.classification.letters
+            # convert null Publication_Date to null    
         writer.writerow(row)
 
     indexFile = csv.DictReader(io.StringIO(output.getvalue()), dialect="piper")
     
+    es.indices.delete(index='items', ignore=[400, 404])
+    
+    mapping = {
+            "mappings":{
+                "_doc":{
+                    "properties": {
+                        "Institution_Symbol": {"type": "text"},
+                        "Item_Holding_Location": {"type": "text", "fielddata": "true"},
+                        "Item_Permanent_Shelving_Location": {"type": "text", "fielddata": "true"},
+                        "Item_Temporary_Shelving_Location": {"type": "text", "fielddata": "true"},
+                        "Item_Type": {"type": "text"},
+                        "Item_Call_Number": {"type": "text"},                            
+                        "Item_Enumeration_and_Chronology": {"type": "text"},
+                        "Author_Name": {"type": "text"},
+                        "Title": {"type": "text"},
+                        "Material_Format": {"type": "text", "fielddata": "true"},
+                        "OCLC_Number": {"type": "text"},
+                        "Item_Barcode": {"type": "text"},
+                        "Item_Status_Current_Status": {"type": "text", "fielddata": "true"},
+                        "n_callnumber_sort": {"type": "text", "fielddata": "true"},
+                        "n_callnumber_search": {"type": "text","fielddata": "true"},
+                        "cn_classification": {"type": "text","fielddata": "true"},
+                        "cn_class_letters": {"type": "text","fielddata": "true"}, 
+                        "cn_type": {"type": "text","fielddata": "true"},
+                        "Publication_Date": {"type": "date", "format": "Y"}
+                    }
+                }
+            }
+        }                
+    es.indices.create(index='items', body=mapping)
+    
     helpers.bulk(es, indexFile, index='items', doc_type='_doc')
+    
+    #es.indices.put_mapping(doc_type="_doc", body={"properties": {"n_callnumber_sort": {"type": "text", "fielddata": "true"},"n_callnumber_search": {"type": "text","fielddata": "true"},"cn_classification": {"type": "text","fielddata": "true"},"cn_class_letters": {"type": "text","fielddata": "true"}}, "cn_type": {"type": "text","fielddata": "true"}}}, index=['items'])
     
     return "success"
              
