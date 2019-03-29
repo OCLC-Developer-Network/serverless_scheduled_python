@@ -1,45 +1,30 @@
 import boto3
 import csv
-from datetime import datetime
 from elasticsearch import helpers, Elasticsearch, RequestsHttpConnection
-import io
-from pathlib import Path
 import pycallnumber as pycn
-import pysftp
 from requests_aws4auth import AWS4Auth
 import yaml
 
-eshost = 'search-test-item-es-instance-aeewahpkldqvswqovzprrio7py.us-east-1.es.amazonaws.com' # For example, my-test-domain.us-east-1.es.amazonaws.com
-region = 'us-east-1' # e.g. us-east-1
-
-service = 'es'
 credentials = boto3.Session().get_credentials()
-awsauth = AWS4Auth(credentials.access_key, credentials.secret_key, region, service)
+# read a configuration file
+with open("prod_config.yml", 'r') as stream:
+    config = yaml.load(stream)
+awsauth = AWS4Auth(credentials.access_key, credentials.secret_key, config.get('region'), config.get('service'))
 
 es = Elasticsearch(
-    hosts = [{'host': eshost, 'port': 443}],
+    hosts = [{'host': config.get('eshost'), 'port': 443}],
     http_auth = awsauth,
     use_ssl = True,
     verify_certs = True,
     connection_class = RequestsHttpConnection
 )
 
-client = boto3.client('kms')
-s3 = boto3.client('s3')
-
 def indexFile(item_file):
 
-    csv.register_dialect('piper', delimiter='\t', quoting=csv.QUOTE_NONE)
-    csv_read = csv.DictReader(open(item_file), dialect="excel");
-                            
-    output = io.StringIO()
+    csv.register_dialect('piper', delimiter='|', quoting=csv.QUOTE_NONE)
+    csv_read = csv.DictReader(open(item_file), dialect="piper");                            
     
-    fieldnames = ['Institution_Symbol','Item_Holding_Location','Item_Permanent_Shelving_Location','Item_Temporary_Shelving_Location','Item_Type','Item_Call_Number','Item_Enumeration_and_Chronology','Author_Name','Title','Publication_Date','Material_Format','OCLC_Number','Item_Barcode','Item_Status_Current_Status','cn_type', 'n_callnumber_sort', 'n_callnumber_search', 'cn_classifiation', 'cn_class_letters']
-    
-    writer = csv.DictWriter(output, fieldnames=fieldnames, dialect="piper", escapechar='\\')
-    
-    writer.writeheader()
-    
+    file_data = []
     for row in csv_read:
         del row['LHR_Item_Materials_Specified']
         del row['Title_ISBN']
@@ -62,25 +47,25 @@ def indexFile(item_file):
             normalizedNumber = pycn.callnumber(row['Item_Call_Number'])
             row['cn_type'] = normalizedNumber.__class__.__name__
             try:
-                row['cn_classification'] = normalizedNumber.classification
+                row['cn_classification'] = str(normalizedNumber.classification)
             except AttributeError:
                 row['cn_classification'] = ""            
-            if isinstance(normalizedNumber, LC):
+            if isinstance(normalizedNumber, pycn.units.LC):
                 try:
-                    row['cn_class_letters'] = normalizedNumber.classification.letters
+                    row['cn_class_letters'] = str(normalizedNumber.classification.letters)
                 except AttributeError:
                     row['cn_class_letters'] = ""
             row['n_callnumber_sort'] = normalizedNumber.for_sort()
-            row['n_callnumber_search'] = normalizedNumber.for_search()                    
-        writer.writerow(row)
+            row['n_callnumber_search'] = normalizedNumber.for_search()
+        if not row['Publication_Date']:
+            row['Publication_Date'] = None
+        file_data.append(row)                                    
     
-    indexFile = csv.DictReader(io.StringIO(output.getvalue()), dialect="piper")
-    
-    es.indices.delete(index='items', ignore=[400, 404])
+    es.indices.delete(index='sh_items', ignore=[400, 404])
     
     mapping = {
                 "mappings":{
-                    "doc":{
+                    "_doc":{
                         "properties": {
                             "Institution_Symbol": {"type": "text"},
                             "Item_Holding_Location": {"type": "text", "fielddata": "true"},
@@ -100,16 +85,15 @@ def indexFile(item_file):
                             "cn_classification": {"type": "text","fielddata": "true"},
                             "cn_class_letters": {"type": "text","fielddata": "true"}, 
                             "cn_type": {"type": "text","fielddata": "true"},
-                            "Publication_Date": {"type": "date", "format": "Y"}
+                            "Publication_Date": {"type": "date", "format": "Y", "ignore_malformed": "true"}
                         }
                     }
                 }
             }                
-    es.indices.create(index='items', body=mapping)
-    
-    helpers.bulk(es, indexFile, index='items', doc_type='_doc')
+    es.indices.create(index='sh_items', body=mapping)
+    helpers.bulk(es, file_data, index='sh_items', doc_type='_doc')
     
     return "success"
 
 file = "sh_items.txt"        
-indexFile(file)     
+print(indexFile(file))     

@@ -1,5 +1,5 @@
 service: 
-    name: schedule-python-example
+    name: triggered-python-example
 custom:
   bucket: test-bucket-for-csvs    
 provider:
@@ -13,19 +13,32 @@ provider:
     - Effect: Allow
       Action:
        - s3:PutObject
-      Resource: arn:aws:s3:::${self:custom.bucket}/* 
+      Resource: arn:aws:s3:::${self:custom.bucket}/*       
 
 functions:
-    getFilesViaSFTP: 
+    indexItemCSV: 
         handler: handler.run
         events:
-         - schedule:
-            rate: cron(0 14 * * ? *)
-            enabled: true
+         - s3:
+            bucket: ${self:custom.bucket}
+            event: s3:ObjectCreated:*
+            rules:
+              - prefix: items/
+              - suffix: .txt         
+    indexCircEvent: 
+        handler: circEventsImport.run
+        events:
+         - s3:
+            bucket: ${self:custom.bucket}
+            event: s3:ObjectCreated:*
+            rules:
+              - prefix: circEvents/
+              - suffix: .csv                     
 
 resources:
   Resources:
     CSVBucket:
       Type: AWS::S3::Bucket
       Properties:
-        BucketName: ${self:custom.bucket}
+        BucketName: ${self:custom.bucket}  
+      

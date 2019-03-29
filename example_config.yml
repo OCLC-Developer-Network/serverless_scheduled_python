@@ -1,5 +1,3 @@
-host: sftp.host.address
-username: username
-bucket: sftp-bucket
-path: "path/to/file"
-file: "filename.txt"
+eshost: search-test-item-es-instance-aeewahpkldqvswqovzprrio7py.us-east-1.es.amazonaws.com
+region: us-east-1
+service: es
