@@ -35,12 +35,12 @@ I reccomend using pip.
 
 ### Step 4: Setup ElasticSearch
 1. Use the AWS Console to create an ElasticSearch instance - https://console.aws.amazon.com/es/home
-    a. Deployment Type - Development and testing
-    b. Version - 6.4
-    c. instance name - elastic-search-index-test
-    d. type instance - t2.small.elasticsearch 
-    e. number of instances - 1
-    f. take the rest of the default settings
+    1. Deployment Type - Development and testing
+    2. Version - 6.4
+    3. instance name - elastic-search-index-test
+    4. type instance - t2.small.elasticsearch 
+    5. number of instances - 1
+    6. take the rest of the default settings
 2. Note this will not configure Kibana access!
     
 ### Step 5: Create an S3 Bucket for the files
