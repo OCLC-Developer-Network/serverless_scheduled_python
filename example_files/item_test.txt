@@ -1,0 +1,200 @@
+Institution_Symbol|Item_Holding_Location|Item_Permanent_Shelving_Location|Item_Temporary_Shelving_Location|Item_Type|Item_Call_Number|Item_Enumeration_and_Chronology|Author_Name|Title|LHR_Item_Materials_Specified|Material_Format|OCLC_Number|Title_ISBN|Publication_Date|Item_Barcode|LHR_Item_Cost|LHR_Item_Nonpublic_Note|LHR_Item_Public_Note|Item_Status_Current_Status|Item_Due_Date|Item_Issued_Count|Issued_Count_YTD|Item_Soft_Issued_Count|Item_Soft_Issued_Count_YTD|Item_Last_Issued_Date|Item_Last_Inventoried_Date|Item_Deleted_Date|LHR_Date_Entered_on_File|LHR_Item_Acquired_Date|Language_Code
+OCPSB|MAIN|MAIN-STACKS||CIRC_MANAGED|||Tommy Tutone|867-5309/Jenny||Snd_CD|0|||8675309||||AVAILABLE||1|0|8|0|2018-02-12 14:47:26|2018-04-11 15:48:05||||otr
+OCPSB|MAIN|MAIN-STACKS||CIRC_MANAGED|||Tommy Tutone|867-5309/Jenny||Snd_CD|0|||8675309%||||AVAILABLE||0|0|0|0||||||otr
+OCPSB|MAIN|MAIN-STACKS||CIRC_MANAGED|||Tommy Tutone|867-5309/Jenny||Snd_CD|0|||8675309/||||AVAILABLE||0|0|0|0||||||otr
+OCPSB|MAIN|MAIN-STACKS||CIRC_MANAGED|||Tommy Tutone|867-5309/Jenny||Snd_CD|0|||86753099||||CLAIMED_NEVER_HAD||1|0|0|0|2017-09-22 10:23:02|||||otr
+OCPSB|MAIN|Main Reserves - 2 hours||CIRC_MANAGED||||Karen's Temporary Item Test||Book|0|||tempTest||||AVAILABLE||0|0|0|0||||||otr
+OCPSB|MAIN|MAIN-STACKS||VOLUME|HH22.G35001 L37 2008||Grider, Dorothy.Watts, Mabel.Grider, Dorothy.Hunter, Virginia,|The Rand McNally book of favorite pastimes /||Book|1||1963|777444||||AVAILABLE||0|0|0|0||||2010-11-30||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|BV4832.2||Morgan, Elise Nevins,|That we may be willing to receive.||Book|25||1965|311869785242||||AVAILABLE||0|0|0|0||||2010-10-04||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|BV4832.2||Morgan, Elise Nevins,|That we may be willing to receive.||Book|25||1965|31186998754236||||AVAILABLE||0|0|0|0||||2010-10-04||eng
+OCPSB|SOUT|SOUT-STACKS||VOLUME|KF27||United States.; Robinson, James H.,; United States.|Testimony of Rev. James H. Robinson :hearing before the Committee on Un-American Activities, House of Representatives, Eighty-eighth Congress, second session. May 5, 1964.||Book|26||1964|311860000747283||||AVAILABLE||0|0|0|0||||2010-10-06||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|PR1585.A2 B4||Bessinger, Jess B.,Smith, Philip H.,|A concordance to Beowulf /||Book|223|0801404800^9780801404801|1969|509832570984325||||AVAILABLE||0|0|0|0||||2011-02-24||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|PR1585.A2 B4||Bessinger, Jess B.,Smith, Philip H.,|A concordance to Beowulf /||Book|223|0801404800^9780801404801|1969|75984307509843||||AVAILABLE||0|0|0|0||||2011-02-24||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|PNW 636.7 Wh27w||Fausset, Hugh I'Anson,|Walt Whitman: poet of democracy.||Book|279||1969|31118669949859821|12.95|||AVAILABLE||0|0|0|0||||2011-02-03||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|PS3565.C57 A6 1969||O'Connor, Flannery,; Fitzgerald, Sally,Fitzgerald, Robert,|Mystery and manners :occasional prose /||Book|5332|0374508046^9780374508043|1969|30186||||AVAILABLE||0|0|0|0||||2011-02-25||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|TL15 .B515||Bird, Anthony.|Roads and vehicles.||Book|34875|0582126142^9780582126145|1969|98351||||AVAILABLE||0|0|0|0||||2011-11-20||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|TL15 .B515||Bird, Anthony.|Roads and vehicles.||Book|34875|0582126142^9780582126145|1969|98352||||AVAILABLE||0|0|0|0||||2011-11-20||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|TS180 .R43||Reed, Ruddell.; Industrial and Commercial Techniques, Ltd.|Effective material handling planning and management.||Book|56789|085089011X^9780850890112|1969|5789456||||AVAILABLE||0|0|0|0||||2011-05-23||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|TS180 .R43||Reed, Ruddell.; Industrial and Commercial Techniques, Ltd.|Effective material handling planning and management.||Book|56789|085089011X^9780850890112|1969|98090||||AVAILABLE||0|0|0|0||||2011-11-14||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|813.52 STE||Steinbeck Conference; Astro, Richard.Hayashi, Tetsumaro.; Oregon State University.Ball State University.|Steinbeck :the man and his work : proceedings of the 1970 Steinbeck Conference /||Book|144974|0870714430^9780870714436|1971|30107||||AVAILABLE||0|0|0|0||||2011-01-27||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|PZ4 .O183 Ev||O'Connor, Flannery.|Everything that rises must converge /||Book|188835|0374504644^9780374504649|1965|30192||||AVAILABLE||0|0|0|0||||2011-02-25||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|HD9161.U54||Lief, Alfred,|Harvey Firestone :free man of enterprise /||Book|238062||1951|100200310|8.98 USD|||AVAILABLE||1|0|0|0||2018-08-14 09:03:37||2018-07-10||eng
+OCPSB|WEST|WEST-STACKS||VOLUME|PZ4.H47665 C34 2009||Heller, Joseph.|Catch-22,a novel.||Book|271160|0671128051^0671502336^0684833395^0684865130^1451621175^1451626657^9780671128050^9780671502331^9780684833392^9780684865133^9781451621174^9781451626650|1961|38675309|25 USD|||AVAILABLE||0|0|0|0||||2011-06-10||eng
+OCPSB|EAST|STACKS||VOLUME|PS3558.E476 C38 1961||Heller, Joseph.|Catch-22,a novel.||Book|271160|0671128051^0671502336^0684833395^0684865130^1451621175^1451626657^9780671128050^9780671502331^9780684833392^9780684865133^9781451621174^9781451626650|1961|852963741|BLANK|Gift copy||AVAILABLE||0|0|0|0||||2011-04-05||eng
+OCPSB|SOUT|SOUT-Reference||VOLUME|PS2008 M3||Macdonald, Allan Houston,|Richard Hovey, man & craftsman.||Book|274527||1957|A14403765597|0 USD|-||AVAILABLE||0|0|0|0||||2017-11-13||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|||Gipson, Fred,; Burger, Carl,|Old Yeller /||Book|284789|0060115459^0060115467^0064403823^0613357922^0899669069^9780060115456^9780060115463^9780064403825^9780613357920^9780899669069|1956|oldyeller||||AVAILABLE||0|0|0|0||||2011-07-01||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|PS3537 .T43 W39||Steinbeck, John,|The wayward bus /||Book|289886|0142437875^9780142437872|1947|30117||||AVAILABLE||0|0|0|0||||2011-02-25||eng
+OCPSB|MAIN|MAIN-Periodicals||VOLUME|813.10 THU||Thurber, James,|The middle-aged man on the flying trapeze :a collection of short pieces /||Book|290922||1935|740881541200099|39.95 USD|||AVAILABLE||0|0|0|0||||2010-11-21||eng
+OCPSB|EAST|EAST-STACKS||VOLUME|PR2827.A2 D8||Shakespeare, William,; Durham, W. H.|A midsummer night's dream,||Book|312010||1918|879456||||AVAILABLE||0|0|0|0||||2011-03-28||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|PR2827.A2 D8||Shakespeare, William,; Durham, W. H.|A midsummer night's dream,||Book|312010||1918|9875623||||TRANSIT||0|0|0|0||||2011-03-28||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|PN6014 P645||Pound, Ezra,; Spann, Marcella,|Confucius to Cummings :an anthology of poetry /||Book|335113|0811201554^0811203522^9780811201551^9780811203524|1964|91751043||Add gift bookplate in name of Joe Smith|Donated to library by Joe Smith|AVAILABLE||0|0|0|0||||2011-07-21||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|PR1585||Nicholson, Lewis E.,|An anthology of Beowulf criticism.||Book|353947|0268000069^9780268000066|1963|2342342349905589023||||AVAILABLE||0|0|0|0||||2010-09-30||eng
+OCPSB|EAST|EAST-STACKS||VOLUME|PR1585 .I95 2004||Nicholson, Lewis E.,|An anthology of Beowulf criticism.||Book|353947|0268000069^9780268000066|1963|7057420574025||||AVAILABLE||0|0|0|0||||2010-09-17||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|DG738.14.M2 R513||Ridolfi, Roberto,; Grayson, Cecil,Ridolfi, Roberto,|The life of Niccolò Machiavelli /||Book|405432||1963|787987|||test|AVAILABLE||0|0|0|0||||2011-05-26||eng
+OCPSB|SOUT|SOUT-STACKS||VOLUME|DG738.14.M2 R513||Ridolfi, Roberto,; Grayson, Cecil,Ridolfi, Roberto,|The life of Niccolò Machiavelli /||Book|405432||1963|788546||||AVAILABLE||0|0|0|0||||2011-05-26||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|PS261 .S48||Skaggs, Merrill Maguire.|The folk of Southern fiction /||Book|541216|0820302945^9780820302942|1972|30146||||AVAILABLE||0|0|0|0||||2011-02-25||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|815.54 THU||Thurber, James,|Fables for our time,and famous poems illustrated.||Book|577096||1940|740881541200060|9.95 USD||Public note goes here.|AVAILABLE||0|0|0|0||||2010-11-19||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|PS2025 .C45 1873||Howells, William Dean,|A chance acquaintance /||Book|648180||1873|A14421095770|0 USD||George Warren Arms American literature memorial collection|AVAILABLE||0|0|0|0||||2017-11-13||eng
+OCPSB|SOUT|STACKS||VOLUME|111 943 111 111||Mann, Golo,; Jackson, Marian.|The history of Germany since 1789 /||Book|675301||1968|111||||WITHDRAWN|2014-02-20 23:59:59|1|0|0|0|||2014-02-07 14:06:06|||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|Af435 23|Vol 1|Mann, Golo,; Jackson, Marian.|The history of Germany since 1789 /||Book|675301||1968|425454377||||AVAILABLE||0|0|0|0||||2011-08-22||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|PS2014 .H5 Z5 1929||Howe, E. W.|Plain people,||Book|708667|0781281997^9780781281997|1929|A14426743996|0 USD|||AVAILABLE||0|0|0|0||||2017-11-13||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|PS379 .B35||Baumbach, Jonathan.|The landscape of nightmare :studies in the contemporary American novel /||Book|711383|0814700314^0814700322^9780814700310^9780814700327|1965|30187||||AVAILABLE||0|0|0|0||||2011-02-25||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|PS379 .B35||Baumbach, Jonathan.|The landscape of nightmare :studies in the contemporary American novel /||Book|711383|0814700314^0814700322^9780814700310^9780814700327|1965|30188||||AVAILABLE||0|0|0|0||||2011-02-25||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|PZ3.S8195 Re3||Steinbeck, John,; Dennis, Wesley,|The red pony /||Book|715945|067059184X^9780670591848|1945|30123||||AVAILABLE||0|0|0|0||||2011-02-25||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|GV958 .O35 H32||Hayes, Woody,|You win with people!||Book|729713||1973|12498325983|30.00 USD|||AVAILABLE||0|0|0|0||||2011-05-16||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|759.05  R454h||Rewald, John,|The history of impressionism /||Book|745411|0436411504^0870703609^0870703692^9780436411502^9780870703607^9780870703690|1973|4556478956||||AVAILABLE||0|0|0|0||||2011-10-07||eng
+OCPSB|SOUT|STACKS||VOLUME|891.733 G613c 1972||Gogolʹ, Nikolaĭ Vasilʹevich,|El capote y otros cuentos||Book|850703||1972|311186000634314|$25.00|||AVAILABLE||0|0|0|0||||2009-12-31|1991-09-19|spa
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 1-5 no. (year) 1970-1974 (month)|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166001||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 6-10 no. (year) 1975-1979 (month)|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166002||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 11-15 no. (year) 1980-1984 (month)|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166003||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 16-20 no. (year) 1985-1989 (month)|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166004||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 20-25 no. (year) 1990-1994 (month)|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166005||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 26-30 no. (year) 1995-1999 (month)|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166006||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 31-35 no. (year) 2000-2004 (month)|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166007||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 36 no. 1 (year) 2005 (month) 01|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166008||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 36 no. 2 (year) 2005 (month) 02|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166009||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 36 no. 3 (year) 2005 (month) 03|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166010||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 36 no. 4 (year) 2005 (month) 04|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166011||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 36 no. 5 (year) 2005 (month) 05|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166012||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 36 no. 6 (year) 2005 (month) 06|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166013||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 36 no. 7 (year) 2005 (month) 07|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166014||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 36 no. 8 (year) 2005 (month) 08|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166015||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 36 no. 9 (year) 2005 (month) 09|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166016||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 36 no. 10 (year) 2005 (month) 10|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166017||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 36 no. 11 (year) 2005 (month) 11|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166018||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 36 no. 12 (year) 2005 (month) 12|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166019||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 37 no. 1 (year) 2006 (month) 01|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166020||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 37 no. 2 (year) 2006 (month) 02|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166021||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 37 no. 3 (year) 2006 (month) 03|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166022||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 37 no. 4 (year) 2006 (month) 04|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166023||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 37 no. 5 (year) 2006 (month) 05|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166024||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 37 no. 6 (year) 2006 (month) 06|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166025||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 37 no. 7 (year) 2006 (month) 07|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166026||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 37 no. 8 (year) 2006 (month) 08|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166027||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 37 no. 9 (year) 2006 (month) 09|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166028||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 37 no. 10 (year) 2006 (month) 10|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166029||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 37 no. 11 (year) 2006 (month) 11|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166030||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 37 no. 12 (year) 2006 (month) 12|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166031||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 38 no. 1 (year) 2007 (month) 01|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166032||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 38 no. 2 (year) 2007 (month) 02|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166033||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 38 no. 3 (year) 2007 (month) 03|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166034||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 38 no. 4 (year) 2007 (month) 04|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166035||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 38 no. 5 (year) 2007 (month) 05|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166036||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 38 no. 6 (year) 2007 (month) 06|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166037||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 38 no. 7 (year) 2007 (month) 07|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166038||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 38 no. 8 (year) 2007 (month) 08|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166039||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 38 no. 9 (year) 2007 (month) 09|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166040||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 38 no. 10 (year) 2007 (month) 10|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166041||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 38 no. 11 (year) 2007 (month) 11|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166042||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 38 no. 12 (year) 2007 (month) 12|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166043||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 39 no. 1 (year) 2008 (month) 01|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166044||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 39 no. 2 (year) 2008 (month) 02|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166045||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 39 no. 3 (year) 2008 (month) 03|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166046||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 39 no. 4 (year) 2008 (month) 04|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166047||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 39 no. 5 (year) 2008 (month) 05|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166048||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 39 no. 6 (year) 2008 (month) 06|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166049||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 39 no. 7 (year) 2008 (month) 07|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166050||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 39 no. 8 (year) 2008 (month) 08|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166051||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 39 no. 9 (year) 2008 (month) 09|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166052||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 39 no. 10 (year) 2008 (month) 10|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166053||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 39 no. 11 (year) 2008 (month) 11|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166054||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 39 no. 12 (year) 2008 (month) 12|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166055||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 40 no. 1 (year) 2009 (month) 01|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166056||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 40 no. 2 (year) 2009 (month) 02|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166057||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 40 no. 3 (year) 2009 (month) 03|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166058||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 40 no. 4 (year) 2009 (month) 04|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166059||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 40 no. 5 (year) 2009 (month) 05|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166060||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 40 no. 6 (year) 2009 (month) 06|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166061||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 40 no. 7 (year) 2009 (month) 07|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166062||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 40 no. 8 (year) 2009 (month) 08|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166063||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 40 no. 9 (year) 2009 (month) 09|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166064||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 40 no. 10 (year) 2009 (month) 10|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166065||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 40 no. 11 (year) 2009 (month) 11|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166066||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 40 no. 12 (year) 2009 (month) 12|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166067||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 41 no. 1 (year) 2010 (month) 01|American Library Association.|American libraries.||Jrnl|854299||1970|22581-166068||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 41 no. 3 (year) 2010 (month) 03|American Library Association.|American libraries.||Jrnl|854299||1970|258369||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|WEST|WEST-Periodicals||VOLUME|028.98 H20|v. 41 no. 2 (year) 2010 (month) 2|American Library Association.|American libraries.||Jrnl|854299||1970|4568789654||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|MAIN|MAIN-Periodicals||VOLUME|PER|v. 1 no. 1||Journal of applied social psychology.||Jrnl|855160||1971|98313||||AVAILABLE||0|0|0|0||||2011-11-19||eng
+OCPSB|SOUT|STACKS||VOLUME|021.69 M68||Graham, Hatch.; United States.|Habitat management plan for birds of the San Bernardino National Forest.||Book|861314||1967|311186000701447|$32.00|||AVAILABLE||0|0|0|0||||2009-12-31|2002-03-18|eng
+OCPSB|MAIN|STACKS||VOLUME|021.69 M68||Graham, Hatch.; United States.|Habitat management plan for birds of the San Bernardino National Forest.||Book|861314||1967|311186000701456|$32.00|||AVAILABLE||0|0|0|0||||2009-12-31|1991-09-19|eng
+OCPSB|SOUT|STACKS||VOLUME|021.711 B710||Ott, Wilhelm,; Virgil.|Metrische Analysen zu Vergil /||Book|870403|3484600314^9783484600317|1973|311186000757707|$25.00|||AVAILABLE||0|0|0|0||||2009-12-31|1991-09-19|ger
+OCPSB|NORT|STACKS||VOLUME|707 S367||Goldast, Melchior,|Monarchia S. Romani Imperii.||Book|870903||1960|311186000859982|$32.00|||AVAILABLE||0|0|0|0||||2009-12-31|2002-03-18|lat
+OCPSB|WEST|STACKS||VOLUME|707 S367||Goldast, Melchior,|Monarchia S. Romani Imperii.||Book|870903||1960|311186001592660|$32.00|||AVAILABLE||0|0|0|0||||2009-12-31|2002-03-13|lat
+OCPSB|SOUT|STACKS||VOLUME|707 S367||Goldast, Melchior,|Monarchia S. Romani Imperii.||Book|870903||1960|311186001608966|$32.00|||AVAILABLE||0|0|0|0||||2009-12-31|2002-02-25|lat
+OCPSB|MAIN|STACKS||VOLUME|707 S367||Goldast, Melchior,|Monarchia S. Romani Imperii.||Book|870903||1960|311186002472235|$32.00|||AVAILABLE||0|0|0|0||||2009-12-31|1991-09-19|lat
+OCPSB|SOUT|STACKS||VOLUME|712.6 S535||Rohrbach, Peter-Thomas.|Conversation with Christ;an introduction to mental prayer.||Book|871204||1956|311186000881323|$10.00|||AVAILABLE||0|0|0|0||||2009-12-31|1991-09-19|eng
+OCPSB|EAST|EAST-STACKS||VOLUME|BX1751.A1 G84 v.81||Alszeghy, Zoltán,|Nova creatura;la nozione della grazia nei commentari medievali di S. Paolo.||Book|879654||1956|23456879||||AVAILABLE||0|0|0|0||||2011-05-23||ita
+OCPSB|SOUT|SOUT-STACKS||VOLUME|BX1751.A1 G84 v.81||Alszeghy, Zoltán,|Nova creatura;la nozione della grazia nei commentari medievali di S. Paolo.||Book|879654||1956|87954656||||AVAILABLE||0|0|0|0||||2011-05-23||ita
+OCPSB|SOUT|STACKS||VOLUME|714.7 S598||Torrey, R. A.|The power of prayer :and the prayer of power /||Book|880202||1955|311186001333708|$25.00|||AVAILABLE||0|0|0|0||||2009-12-31|1991-09-19|eng
+OCPSB|SOUT|STACKS||VOLUME|717.2 S673||Schering, Arnold,; Moser, Hans Joachim,|Tabellen zur Musikgeschichte;ein Hilfsbuch beim Studium der Musikgeschichte.||Book|880311||1962|311186000804407|$25.00|||AVAILABLE||0|0|0|0||||2009-12-31|1991-09-19|ger
+OCPSB|MAIN|STACKS||VOLUME|714.1 S580||Crichton, J. D.|The liturgy and the future,||Book|881301||1966|311186000823057|$25.00|||AVAILABLE||0|0|0|0||||2009-12-31|1991-09-19|eng
+OCPSB|SOUT|Reference||VOLUME|730 S1057||Wichler, Gerhard.|Charles Darwin,the founder of the theory of evolution and natural selection.||Book|890411||1961|311186001339757|$25.00|||AVAILABLE||0|0|0|0||||2009-12-31|1991-09-19|eng
+OCPSB|MAIN|MAIN-Periodicals||VOLUME|Per Shelves|Vol. 1 no. 2 (Year) 2011 (Season) Fall|Northwestern University (Evanston, Ill.).|The Journal of criminal law & criminology /||Jrnl|1038922||1973|4314312312||||AVAILABLE||0|0|0|0||||2011-08-29||eng
+OCPSB|MAIN|MAIN-Periodicals||VOLUME|650 BUS|Vol. 50 no. 2 (year) 2011 (month) 2|American Veterinary Medical Association.|Journal of the American Veterinary Medical Association.||Jrnl|1084791||1915|354000100110011||||AVAILABLE||0|0|0|0||||2011-08-31||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|STACKS||Okakura, Kakuzō,|The book of tea /||Book|1122519|0486200701^9780486200705|1964|98361||||AVAILABLE||0|0|0|0||||2011-11-20||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|RE31 .P44 1973||Pelosio, Anselmo.|El oftalmólogo y el detective.||Book|1132781||1973|A14429678564||||AVAILABLE||0|0|0|0||||2017-11-13||spa
+OCPSB|MAIN|MAIN-Periodicals||VOLUME|QD1 A5|v. 130 (year) 2008|American Chemical Society.; Marian S. Carson Collection (Library of Congress)American Chemical Society.|Journal of the American Chemical Society.||Jrnl|1226990||1879|506970123456|||ALPHABETICAL BY SERIES|AVAILABLE||0|0|0|0||||2011-10-18||eng
+OCPSB|MAIN|||VOLUME||Vol. 5 No. 2 (year) 2011|Thorne, Frederick C.|Journal of clinical psychology.||Jrnl|1348731||1945|455154321||||AVAILABLE||0|0|0|0||||2011-10-11||eng
+OCPSB|MAIN|||VOLUME||Vol. 4 no. 1 (year) 2011|Thorne, Frederick C.|Journal of clinical psychology.||Jrnl|1348731||1945|6565236||||AVAILABLE||0|0|0|0||||2011-10-11||eng
+OCPSB|MAIN|||VOLUME||Vol. 2 No. 3 (year) 2011|Thorne, Frederick C.|Journal of clinical psychology.||Jrnl|1348731||1945|764262464||||AVAILABLE||0|0|0|0||||2011-10-11||eng
+OCPSB|WEST|WEST-STACKS||VOLUME|PG3476.M3 A24 1975||Mayakovsky, Vladimir,|The bedbug [a play] and selected poetry /||Book|1363970|0253201896^0253311306^9780253201898^9780253311306|1975|91751049||added by tpp|Donated by Vladimir Ulyanov|AVAILABLE||0|0|0|0||||2011-08-04||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME||||Antiques journal.|Single 866 field with a matching 876|Jrnl|1481616||1946|37659302752037||||AVAILABLE||0|0|0|0||||2010-12-16||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|G505 .A55|v. 61 no. 1 (year) 2010 (Season) Summer/Fall|Appalachian Mountain Club.|Appalachia.||Jrnl|1481692||1876|488588688|9.95||Public 876 Note|AVAILABLE||0|0|0|0||||2011-10-28||eng
+OCPSB|MAIN|MAIN-STACKS||VOLUME|813.09 THU||Thurber, James,; White, E. B.|The owl in the attic and other perplexities,||Book|1490419||1931|740881541200070|4.95 USD|||AVAILABLE||0|0|0|0||||2010-11-19||eng
+OCPSB|NORT|Periodicals||VOLUME|035.76 O19|v. 58 no. 1 (year) 2007 (month) 01||Serials review.||Jrnl|1562672||1975|23110-63001||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|NORT|Periodicals||VOLUME|035.76 O19|v. 58 no. 2 (year) 2007 (month) 04||Serials review.||Jrnl|1562672||1975|23110-63002||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|NORT|Periodicals||VOLUME|035.76 O19|v. 58 no. 3 (year) 2007 (month) 07||Serials review.||Jrnl|1562672||1975|23110-63003||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|NORT|Periodicals||VOLUME|035.76 O19|v. 58 no. 4 (year) 2007 (month) 10||Serials review.||Jrnl|1562672||1975|23110-63004||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|NORT|Periodicals||VOLUME|035.76 O19|v. 59 no. 1 (year) 2008 (month) 01||Serials review.||Jrnl|1562672||1975|23110-63005||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|NORT|Periodicals||VOLUME|035.76 O19|v. 59 no. 2 (year) 2008 (month) 04||Serials review.||Jrnl|1562672||1975|23110-63006||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|NORT|Periodicals||VOLUME|035.76 O19|v. 59 no. 3 (year) 2008 (month) 07||Serials review.||Jrnl|1562672||1975|23110-63007||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|NORT|Periodicals||VOLUME|035.76 O19|v. 59 no. 4 (year) 2008 (month) 10||Serials review.||Jrnl|1562672||1975|23110-63008||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|NORT|Periodicals||VOLUME|035.76 O19|v. 60 no. 1 (year) 2009 (month) 01||Serials review.||Jrnl|1562672||1975|23110-63009||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|NORT|Periodicals||VOLUME|035.76 O19|v. 60 no. 2 (year) 2009 (month) 04||Serials review.||Jrnl|1562672||1975|23110-63010||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|NORT|Periodicals||VOLUME|035.76 O19|v. 60 no. 3 (year) 2009 (month) 07||Serials review.||Jrnl|1562672||1975|23110-63011||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|NORT|Periodicals||VOLUME|035.76 O19|v. 60 no. 4 (year) 2009 (month) 10||Serials review.||Jrnl|1562672||1975|23110-63012||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|NORT|Periodicals||VOLUME|035.76 O19|v. 61 no. 1 (year) 2010 (month) 01||Serials review.||Jrnl|1562672||1975|23110-63013||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 4 (year) 1960|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111111||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 5 (year) 1961|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111112||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 6 (year) 1962|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111113||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 7 (year) 1963|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111114||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 8 (year) 1964|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111115||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 9 (year) 1965|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111116||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 10 (year) 1966|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111117||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 11 (year) 1967|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111122||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 12 (year) 1968|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111123||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 13 (year) 1969|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111124||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 14 (year) 1970|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111125||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 15 (year) 1971|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111126||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 16 (year) 1972|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111127||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 17 (year) 1973|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111128||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 18 (year) 1974|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111129||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 19 (year) 1975|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111130||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 20 (year) 1976|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111131||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 21 (year) 1977|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111132||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 22 (year) 1978|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111133||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 23 (year) 1979|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111134||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 24 (year) 1980|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111135||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 25 (year) 1981|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111136||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 26 (year) 1982|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111137||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 27 (year) 1983|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111138||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 28 (year) 1984|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111139||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 29 (year) 1985|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111140||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 30 (year) 1986|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111141||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 31 (year) 1987|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111142||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 32 (year) 1988|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111143||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 33 (year) 1989|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111144||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 34 (year) 1990|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111145||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 35 (year) 1991|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111146||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 36 (year) 1992|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111147||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 37 (year) 1993|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111148||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 38 (year) 1994|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111149||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 39 (year) 1995|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111150||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 1 (year) 1957|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|11112233||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 2 (year) 1958|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|111122331||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 11 (year) 1967|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111223310||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 12 (year) 1968|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111223311||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 13 (year) 1969|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111223312||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 14 (year) 1970|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111223313||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 15 (year) 1971|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111223314||||AVAILABLE||0|0|0|0||||2009-12-31||eng
+OCPSB|EAST|Periodicals||VOLUME|020.72 O687|+ 16 (year) 1972|Council on Library Resources.|Annual report.||Jrnl|1565305||1957|1111223315||||AVAILABLE||0|0|0|0||||2009-12-31||eng
