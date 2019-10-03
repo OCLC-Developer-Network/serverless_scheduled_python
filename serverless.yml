@@ -9,11 +9,18 @@ provider:
  timeout: 10
  stage: production
  region: us-east-1
+ environment:
+   ESURL:
+     Fn::GetAtt: [ ElasticSearchInstance , DomainEndpoint ]
  iamRoleStatements:
     - Effect: Allow
       Action:
-       - s3:PutObject
-      Resource: arn:aws:s3:::${self:custom.bucket}/*       
+       - s3:GetObject
+      Resource: arn:aws:s3:::${self:custom.bucket}/*
+    - Effect: Allow
+      Action:
+       - es:ESHttp*
+      Resource: { "Fn::GetAtt": ["ElasticSearchInstance", "DomainArn" ] }            
 
 functions:
     indexItemCSV: 
@@ -33,12 +40,44 @@ functions:
             event: s3:ObjectCreated:*
             rules:
               - prefix: circEvents/
-              - suffix: .csv                     
+              - suffix: .csv
+    indexTitleList: 
+        handler: titleListImport.run
+        events:
+         - s3:
+            bucket: ${self:custom.bucket}
+            event: s3:ObjectCreated:*
+            rules:
+              - prefix: titleLists/
+              - suffix: .txt
+    indexTitleKBART: 
+        handler: kbartTitleImport.run
+        events:
+         - s3:
+            bucket: ${self:custom.bucket}
+            event: s3:ObjectCreated:*
+            rules:
+              - prefix: kbartTitles/
+              - suffix: .txt                                                 
 
 resources:
   Resources:
     CSVBucket:
       Type: AWS::S3::Bucket
       Properties:
-        BucketName: ${self:custom.bucket}  
+        BucketName: ${self:custom.bucket}
+    ElasticSearchInstance:      
+      Type: AWS::Elasticsearch::Domain
+      Properties:
+        DomainName: test-item-es-instance
+        EBSOptions:
+          EBSEnabled: true
+          VolumeType: gp2
+          VolumeSize: 10
+        ElasticsearchClusterConfig:
+          InstanceType: t2.small.elasticsearch
+          InstanceCount: 1
+          DedicatedMasterEnabled: false
+          ZoneAwarenessEnabled: false
+        ElasticsearchVersion: 6.4          
       

@@ -77,28 +77,26 @@ def run(event, context):
     
     mapping = {
             "mappings":{
-                "_doc":{
-                    "properties": {
-                        "Institution_Symbol": {"type": "text"},
-                        "Item_Holding_Location": {"type": "text", "fielddata": "true"},
-                        "Item_Permanent_Shelving_Location": {"type": "text", "fielddata": "true"},
-                        "Item_Temporary_Shelving_Location": {"type": "text", "fielddata": "true"},
-                        "Item_Type": {"type": "text"},
-                        "Item_Call_Number": {"type": "text"},                            
-                        "Item_Enumeration_and_Chronology": {"type": "text"},
-                        "Author_Name": {"type": "text"},
-                        "Title": {"type": "text"},
-                        "Material_Format": {"type": "text", "fielddata": "true"},
-                        "OCLC_Number": {"type": "text"},
-                        "Item_Barcode": {"type": "text"},
-                        "Item_Status_Current_Status": {"type": "text", "fielddata": "true"},
-                        "n_callnumber_sort": {"type": "text", "fielddata": "true"},
-                        "n_callnumber_search": {"type": "text","fielddata": "true"},
-                        "cn_classification": {"type": "text","fielddata": "true"},
-                        "cn_class_letters": {"type": "text","fielddata": "true"}, 
-                        "cn_type": {"type": "text","fielddata": "true"},
-                        "Publication_Date": {"type": "date", "format": "Y", "ignore_malformed": "true"}
-                    }
+                "properties": {
+                    "Institution_Symbol": {"type": "text"},
+                    "Item_Holding_Location": {"type": "text", "fielddata": "true"},
+                    "Item_Permanent_Shelving_Location": {"type": "text", "fielddata": "true"},
+                    "Item_Temporary_Shelving_Location": {"type": "text", "fielddata": "true"},
+                    "Item_Type": {"type": "text"},
+                    "Item_Call_Number": {"type": "text"},                            
+                    "Item_Enumeration_and_Chronology": {"type": "text"},
+                    "Author_Name": {"type": "text"},
+                    "Title": {"type": "text"},
+                    "Material_Format": {"type": "text", "fielddata": "true"},
+                    "OCLC_Number": {"type": "text"},
+                    "Item_Barcode": {"type": "text"},
+                    "Item_Status_Current_Status": {"type": "text", "fielddata": "true"},
+                    "n_callnumber_sort": {"type": "text", "fielddata": "true"},
+                    "n_callnumber_search": {"type": "text","fielddata": "true"},
+                    "cn_classification": {"type": "text","fielddata": "true"},
+                    "cn_class_letters": {"type": "text","fielddata": "true"}, 
+                    "cn_type": {"type": "text","fielddata": "true"},
+                    "Publication_Date": {"type": "date", "format": "Y", "ignore_malformed": "true"}
                 }
             }
         }                

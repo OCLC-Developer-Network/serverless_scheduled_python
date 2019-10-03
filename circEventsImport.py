@@ -37,33 +37,31 @@ def run(event, context):
     
     mapping = {
                 "mappings":{
-                    "_doc":{
-                        "properties": {                        
-                            "Event Branch Name": {"type": "text", "fielddata": "true"},
-                            "Event Institution Name": {"type": "text"},
-                            "Event Type": {"type": "text", "fielddata": "true"},
-                            "Event Borrower Category": {"type": "text"},
-                            "Event Day Name of Week": {"type": "text"},
-                            "Event Loan Policy": {"type": "text"},                            
-                            "Item Barcode": {"type": "text", "fielddata": "true"},
-                            "Item OCLC Number": {"type": "text", "fielddata": "true"},
-                            "Item Title": {"type": "text"},
-                            "Item Call Number": {"type": "text"},
-                            "Item Material Format": {"type": "text", "fielddata": "true"},    
-                            "Item Branch Name": {"type": "text", "fielddata": "true"},
-                            "Item Permanent Shelving Location": {"type": "text", "fielddata": "true"},
-                            "Item Renewal Count":{"type": "integer"},
-                            "Patron Barcode": {"type": "text", "fielddata": "true"},
-                            "Patron Custom Category 1": {"type": "text", "fielddata": "true"},
-                            "Patron Custom Category 2": {"type": "text", "fielddata": "true"},
-                            "Patron Custom Category 3": {"type": "text", "fielddata": "true"},
-                            "Patron Custom Category 4": {"type": "text", "fielddata": "true"},
-                            "Event Staff Full Name": {"type": "text", "fielddata": "true"},
-                            "Item Temporary Shelving Location": {"type": "text","fielddata": "true"},                    
-                            "Event Date": {"type": "date", "format": "yyyy/MM/dd HH:mm:ss||yyyy/MM/dd"},
-                            "Event Date/Time": {"type": "date", "format": "yyyy/MM/dd HH:mm:ss||yyyy/MM/dd"},
-                            "Event Due Date/Time": {"type": "date", "format": "yyyy/MM/dd HH:mm:ss||yyyy/MM/dd"}
-                        }
+                    "properties": {                        
+                        "Event Branch Name": {"type": "text", "fielddata": "true"},
+                        "Event Institution Name": {"type": "text"},
+                        "Event Type": {"type": "text", "fielddata": "true"},
+                        "Event Borrower Category": {"type": "text"},
+                        "Event Day Name of Week": {"type": "text"},
+                        "Event Loan Policy": {"type": "text"},                            
+                        "Item Barcode": {"type": "text", "fielddata": "true"},
+                        "Item OCLC Number": {"type": "text", "fielddata": "true"},
+                        "Item Title": {"type": "text"},
+                        "Item Call Number": {"type": "text"},
+                        "Item Material Format": {"type": "text", "fielddata": "true"},    
+                        "Item Branch Name": {"type": "text", "fielddata": "true"},
+                        "Item Permanent Shelving Location": {"type": "text", "fielddata": "true"},
+                        "Item Renewal Count":{"type": "integer"},
+                        "Patron Barcode": {"type": "text", "fielddata": "true"},
+                        "Patron Custom Category 1": {"type": "text", "fielddata": "true"},
+                        "Patron Custom Category 2": {"type": "text", "fielddata": "true"},
+                        "Patron Custom Category 3": {"type": "text", "fielddata": "true"},
+                        "Patron Custom Category 4": {"type": "text", "fielddata": "true"},
+                        "Event Staff Full Name": {"type": "text", "fielddata": "true"},
+                        "Item Temporary Shelving Location": {"type": "text","fielddata": "true"},                    
+                        "Event Date": {"type": "date", "format": "yyyy/MM/dd HH:mm:ss||yyyy/MM/dd"},
+                        "Event Date/Time": {"type": "date", "format": "yyyy/MM/dd HH:mm:ss||yyyy/MM/dd"},
+                        "Event Due Date/Time": {"type": "date", "format": "yyyy/MM/dd HH:mm:ss||yyyy/MM/dd"}
                     }
                 }
             }                

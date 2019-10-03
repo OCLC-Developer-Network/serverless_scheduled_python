@@ -61,7 +61,7 @@ def indexFile(item_file):
             row['Publication_Date'] = None
         file_data.append(row)                                    
     
-    es.indices.delete(index='sh_items', ignore=[400, 404])
+    es.indices.delete(index='items', ignore=[400, 404])
     
     mapping = {
                 "mappings":{
@@ -90,10 +90,10 @@ def indexFile(item_file):
                     }
                 }
             }                
-    es.indices.create(index='sh_items', body=mapping)
-    helpers.bulk(es, file_data, index='sh_items', doc_type='_doc')
+    es.indices.create(index='items', body=mapping)
+    helpers.bulk(es, file_data, index='items', doc_type='_doc')
     
     return "success"
 
-file = "sh_items.txt"        
+file = "item_test.txt"        
 print(indexFile(file))     
