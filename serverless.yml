@@ -60,11 +60,11 @@ functions:
               - prefix: kbartTitles/
               - suffix: .txt
     indexDigitalCollections:
-        hander: oai_handler.run
+        handler: oai_handler.run
         events:
          - schedule:
             rate: cron(0 14 * * ? *)
-            enabled: true                                                 
+            enabled: true                                                             
 
 resources:
   Resources:
@@ -85,5 +85,5 @@ resources:
           InstanceCount: 1
           DedicatedMasterEnabled: false
           ZoneAwarenessEnabled: false
-        ElasticsearchVersion: 6.4          
+        ElasticsearchVersion: 7.1          
       
