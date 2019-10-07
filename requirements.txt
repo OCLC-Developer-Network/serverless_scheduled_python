@@ -2,4 +2,6 @@ boto3>=1.9.60
 datetime>=4.3
 pathlib>=1.0
 pycallnumber>=0.1.4
+pymarc>=3.1.8
+pyoai>=2.5.0
 pysftp>=0.2.9
