@@ -43,19 +43,19 @@ def run(event, context):
     mapping = {
                 "mappings":{
                     "properties": { 
-                        "Publication Date": {"type": "text", "fielddata": "true"},
-                        "Local Item Call Number": {"type": "text", "fielddata": "true"},
-                        "Source Application": {"type": "text", "fielddata": "true"},
-                        "Institution Name": {"type": "text", "fielddata": "true"},
-                        "Author Name": {"type": "text", "fielddata": "true"},
-                        "Title": {"type": "text", "fielddata": "true"},
-                        "Publisher Name": {"type": "text", "fielddata": "true"},
-                        "Edition": {"type": "text", "fielddata": "true"},
-                        "Language Name": {"type": "text", "fielddata": "true"},
-                        "Material Format": {"type": "text", "fielddata": "true"},
-                        "Material Subformat": {"type": "text", "fielddata": "true"},
-                        "Local Item Permanent Shelving Location": {"type": "text", "fielddata": "true"},
-                        "OCLC Number": {"type": "text", "fielddata": "true"},
+                        "Publication Date": {"type": "keyword"},
+                        "Local Item Call Number": {"type": "keyword"},
+                        "Source Application": {"type": "keyword"},
+                        "Institution Name": {"type": "keyword"},
+                        "Author Name": {"type": "keyword"},
+                        "Title": {"type": "keyword"},
+                        "Publisher Name": {"type": "keyword"},
+                        "Edition": {"type": "keyword"},
+                        "Language Name": {"type": "keyword"},
+                        "Material Format": {"type": "keyword"},
+                        "Material Subformat": {"type": "keyword"},
+                        "Local Item Permanent Shelving Location": {"type": "keyword"},
+                        "OCLC Number": {"type": "keyword"},
                         "Calendar Date": {"type": "date", "format": "yyyy/MM/dd HH:mm:ss||yyyy/MM/dd"}
                     }
                 }

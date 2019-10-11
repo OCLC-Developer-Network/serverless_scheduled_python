@@ -49,21 +49,25 @@ def run(event, context):
             "mappings":{
                 "properties": {
                     "title": {"type": "text"}, 
-                    "creator": {"type": "text"},
-                    "subjects": {"type": "text"}, 
+                    "creator": {"type": "keyword"},
+                    "subjects": {"type": "text", "fields": {
+                        "raw": { 
+                            "type":  "keyword"
+                            }}
+                    }, 
                     "description": {"type": "text"},
-                    "publisher": {"type": "text"},
-                    "contributor": {"type": "text"},
-                    "date": {"type": "text"},
-                    "type": {"type": "text", "fielddata": "true"},
-                    "format": {"type": "text", "fielddata": "true"},
-                    "identifier": {"type": "text"},
-                    "source": {"type": "text"},
-                    "language": {"type": "text", "fielddata": "true"},
-                    "relation": {"type": "text"},
-                    "coverage": {"type": "text"},
+                    "publisher": {"type": "keyword"},
+                    "contributor": {"type": "keyword"},
+                    "date": {"type": "keyword"},
+                    "type": {"type": "keyword"},
+                    "format": {"type": "keyword"},
+                    "identifier": {"type": "keyword"},
+                    "source": {"type": "keyword"},
+                    "language": {"type": "keyword"},
+                    "relation": {"type": "keyword"},
+                    "coverage": {"type": "keyword"},
                     "rights": {"type": "text"},
-                    "set": {"type": "text", "fielddata": "true"},
+                    "set": {"type": "keyword"},
                     "image_url_base": {"type": "text"}
                 }
             }

@@ -46,27 +46,27 @@ def run(event, context):
     mapping = {
                 "mappings":{
                     "properties": {
-                        "publication_title": {"type": "text", "fielddata": "true"},
-                        "print_identifier": {"type": "text", "fielddata": "true"},
-                        "online_identifier": {"type": "text", "fielddata": "true"},
-                        "date_first_issue_online": {"type": "text"},
-                        "num_first_vol_online": {"type": "text"},
-                        "num_first_issue_online": {"type": "text"},
-                        "date_last_issue_online": {"type": "text"},
-                        "num_last_vol_online": {"type": "text"},
-                        "num_last_issue_online": {"type": "text"},
-                        "title_url": {"type": "text"},
-                        "first_author": {"type": "text", "fielddata": "true"},
-                        "title_id": {"type": "text", "fielddata": "true"},
-                        "embargo_info": {"type": "text", "fielddata": "true"},
-                        "coverage_depth": {"type": "text"},
-                        "publisher_name": {"type": "text", "fielddata": "true"},
-                        "location": {"type": "text"},
-                        "vendor_id": {"type": "text", "fielddata": "true"},
-                        "oclc_collection_name": {"type": "text", "fielddata": "true"},
-                        "oclc_collection_id": {"type": "text", "fielddata": "true"},
-                        "oclc_entry_id": {"type": "text", "fielddata": "true"},
-                        "oclc_number": {"type": "text", "fielddata": "true"}
+                        "publication_title": {"type": "keyword"},
+                        "print_identifier": {"type": "keyword"},
+                        "online_identifier": {"type": "keyword"},
+                        "date_first_issue_online": {"type": "keyword"},
+                        "num_first_vol_online": {"type": "keyword"},
+                        "num_first_issue_online": {"type": "keyword"},
+                        "date_last_issue_online": {"type": "keyword"},
+                        "num_last_vol_online": {"type": "keyword"},
+                        "num_last_issue_online": {"type": "keyword"},
+                        "title_url": {"type": "keyword"},
+                        "first_author": {"type": "keyword"},
+                        "title_id": {"type": "keyword"},
+                        "embargo_info": {"type": "keyword"},
+                        "coverage_depth": {"type": "keyword"},
+                        "publisher_name": {"type": "keyword"},
+                        "location": {"type": "keyword"},
+                        "vendor_id": {"type": "keyword"},
+                        "oclc_collection_name": {"type": "keyword"},
+                        "oclc_collection_id": {"type": "keyword"},
+                        "oclc_entry_id": {"type": "keyword"},
+                        "oclc_number": {"type": "keyword"}
                     }
                 }
             }                
