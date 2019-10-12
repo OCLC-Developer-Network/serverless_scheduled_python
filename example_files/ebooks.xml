@@ -1,0 +1,2242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">ocm13035116 </controlfield>
+    <controlfield tag="003">OCoLC</controlfield>
+    <controlfield tag="005">20190827071117.4</controlfield>
+    <controlfield tag="008">860117s1985    ohua     f    001 0 eng d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">OCC</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">OCC</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCC</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">OCC</subfield>
+      <subfield code="c">/p15003coll73</subfield>
+      <subfield code="t">CNTNT</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)13035116</subfield>
+    </datafield>
+    <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">MAIN</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">LS/2000 operations manual.</subfield>
+    </datafield>
+    <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">3rd ed.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Dublin, Ohio :</subfield>
+      <subfield code="b">OCLC,</subfield>
+      <subfield code="c">©1985.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 volume (loose-leaf) :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">28 cm.</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield tag="490" ind1="1" ind2=" ">
+      <subfield code="a">Local systems</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Includes index.</subfield>
+    </datafield>
+    <datafield tag="610" ind1="2" ind2="0">
+      <subfield code="a">OCLC</subfield>
+      <subfield code="v">Handbooks, manuals, etc.</subfield>
+    </datafield>
+    <datafield tag="610" ind1="2" ind2="7">
+      <subfield code="a">OCLC.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00524808</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Handbooks and manuals.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423877</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">OCLC.</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">Local systems.</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="3">OCLC Archives</subfield>
+      <subfield code="u">https://oclclibrary.idm.oclc.org/login?url=http://library.oclc.org.oclclibrary.idm.oclc.org/digital/collection/p15003coll73/id/329</subfield>
+    </datafield>
+    <datafield tag="994" ind1=" " ind2=" ">
+      <subfield code="a">92</subfield>
+      <subfield code="b">OCPSB</subfield>
+    </datafield>
+  </record>
+  <record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">ocm13287558 </controlfield>
+    <controlfield tag="003">OCoLC</controlfield>
+    <controlfield tag="005">20190827070731.9</controlfield>
+    <controlfield tag="008">860312e19860228ohua     bt   001 0 eng d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">OCC</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">OCC</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">YSM</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCC</subfield>
+      <subfield code="d">NZ1</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">NLC</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCC</subfield>
+      <subfield code="d">MST</subfield>
+      <subfield code="d">OCC</subfield>
+    </datafield>
+    <datafield tag="027" ind1=" " ind2=" ">
+      <subfield code="a">OCLC/OPR/RR-86/1</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">NZ1</subfield>
+      <subfield code="b">3172173</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">OCC</subfield>
+      <subfield code="c">/p267701coll27</subfield>
+      <subfield code="t">CNTNT</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">NLC</subfield>
+      <subfield code="b">000006483860</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)13287558</subfield>
+    </datafield>
+    <datafield tag="037" ind1=" " ind2=" ">
+      <subfield code="a">870</subfield>
+      <subfield code="b">ORD (OCLC Documentation Dept.)</subfield>
+      <subfield code="f">paper copy</subfield>
+      <subfield code="c">$25.00</subfield>
+    </datafield>
+    <datafield tag="050" ind1=" " ind2="4">
+      <subfield code="a">Z669.7.O3</subfield>
+      <subfield code="b">M375 1986</subfield>
+    </datafield>
+    <datafield tag="082" ind1="0" ind2="4">
+      <subfield code="a">025.524</subfield>
+      <subfield code="2">19</subfield>
+    </datafield>
+    <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">MAIN</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Markey, Karen.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Dewey decimal classification online project :</subfield>
+      <subfield code="b">evaluation of a library schedule and index integrated into the subject searching capabilities of an online catalog /</subfield>
+      <subfield code="c">by Karen Markey and Anh N. Demeyer.</subfield>
+    </datafield>
+    <datafield tag="246" ind1="3" ind2=" ">
+      <subfield code="a">Evaluation of a library schedule and index integrated into the subject searching capabilities of an online catalog</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Dublin, OH :</subfield>
+      <subfield code="b">OCLC Online Computer Library Center, Office of Research,</subfield>
+      <subfield code="c">1986.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">520 pages in various pagings :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">28 cm</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield tag="490" ind1="1" ind2=" ">
+      <subfield code="a">Report number ;</subfield>
+      <subfield code="v">OCLC/OPR/RR-86/1</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">"1986 February 28."</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">At head of title: Final report to the Council on Library Resources.</subfield>
+    </datafield>
+    <datafield tag="504" ind1=" " ind2=" ">
+      <subfield code="a">Bibliography: pages R:1-R:5</subfield>
+      <subfield code="b">62</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Includes index.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Online library catalogs</subfield>
+      <subfield code="x">Subject access.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Online bibliographic searching.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Classified catalogs (Dewey decimal)</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Online library catalogs</subfield>
+      <subfield code="v">Use studies.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Classified catalogs (Dewey decimal)</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01728023</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Online bibliographic searching.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01045925</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Online library catalogs.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01045961</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Online library catalogs</subfield>
+      <subfield code="x">Subject access.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01045964</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Use studies.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423922</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Demeyer, Anh N.</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">OCLC.</subfield>
+      <subfield code="b">Office of Research.</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">Research report series (OCLC) ;</subfield>
+      <subfield code="v">Report no. OCLC/OPR/RR-86/1.</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="3">OCLC Archives</subfield>
+      <subfield code="u">https://oclclibrary.idm.oclc.org/login?url=http://library.oclc.org.oclclibrary.idm.oclc.org/digital/collection/p267701coll27/id/109</subfield>
+    </datafield>
+    <datafield tag="994" ind1=" " ind2=" ">
+      <subfield code="a">92</subfield>
+      <subfield code="b">OCPSB</subfield>
+    </datafield>
+  </record>
+  <record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">ocm13298037 </controlfield>
+    <controlfield tag="003">OCoLC</controlfield>
+    <controlfield tag="005">20190827070727.9</controlfield>
+    <controlfield tag="008">860314s1986    ohua     f    001 0 eng d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">OCC</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">OCC</subfield>
+      <subfield code="d">MBU</subfield>
+      <subfield code="d">IXA</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCC</subfield>
+      <subfield code="d">OCLCA</subfield>
+    </datafield>
+    <datafield tag="019" ind1=" " ind2=" ">
+      <subfield code="a">505294044</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">0933418000</subfield>
+      <subfield code="q">(set)</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780933418004</subfield>
+      <subfield code="q">(set)</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">0933418892</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780933418899</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">OCC</subfield>
+      <subfield code="c">/p15003coll74</subfield>
+      <subfield code="t">CNTNT</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)13298037</subfield>
+      <subfield code="z">(OCoLC)505294044</subfield>
+    </datafield>
+    <datafield tag="050" ind1=" " ind2="4">
+      <subfield code="a">Z695.615</subfield>
+      <subfield code="b">.O25 1986</subfield>
+    </datafield>
+    <datafield tag="060" ind1=" " ind2="4">
+      <subfield code="a">Z 699.4 O29 M149 1986</subfield>
+    </datafield>
+    <datafield tag="082" ind1="0" ind2="4">
+      <subfield code="a">025.3</subfield>
+    </datafield>
+    <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">MAIN</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Machine-readable data files format.</subfield>
+    </datafield>
+    <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">2nd ed.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Dublin, Ohio :</subfield>
+      <subfield code="b">OCLC,</subfield>
+      <subfield code="c">©1986.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 volume (loose-leaf) :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">28 cm.</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield tag="490" ind1="1" ind2=" ">
+      <subfield code="a">Online systems</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Includes index.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Cataloging of microcomputer software</subfield>
+      <subfield code="v">Handbooks, manuals, etc.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Cataloging of computer files</subfield>
+      <subfield code="v">Handbooks, manuals, etc.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="2">
+      <subfield code="a">Cataloging.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="2">
+      <subfield code="a">Software.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Cataloging of computer files.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00848733</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Cataloging of microcomputer software.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00848777</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Handbooks and manuals.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423877</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">OCLC.</subfield>
+    </datafield>
+    <datafield tag="810" ind1="2" ind2=" ">
+      <subfield code="a">OCLC.</subfield>
+      <subfield code="t">Online systems.</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="3">OCLC Archives</subfield>
+      <subfield code="u">http://library.oclc.org.oclclibrary.idm.oclc.org/digital/collection/p15003coll74/id/20</subfield>
+    </datafield>
+    <datafield tag="994" ind1=" " ind2=" ">
+      <subfield code="a">92</subfield>
+      <subfield code="b">OCPSB</subfield>
+    </datafield>
+  </record>
+  <record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">ocm18297208 </controlfield>
+    <controlfield tag="003">OCoLC</controlfield>
+    <controlfield tag="005">20190827065358.4</controlfield>
+    <controlfield tag="008">880801s1988    ohua     f    001 0 eng d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">OCC</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">OCC</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCC</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">1556530552</subfield>
+      <subfield code="q">(v. 1)</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9781556530555</subfield>
+      <subfield code="q">(v. 1)</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">1556530560</subfield>
+      <subfield code="q">(v. 2)</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9781556530562</subfield>
+      <subfield code="q">(v. 2)</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">OCC</subfield>
+      <subfield code="c">/p15003coll70</subfield>
+      <subfield code="t">CNTNT</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)18297208</subfield>
+    </datafield>
+    <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">MAIN</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Acquisitions 350 :</subfield>
+      <subfield code="b">user manual.</subfield>
+    </datafield>
+    <datafield tag="246" ind1="3" ind2=" ">
+      <subfield code="a">ACQ350</subfield>
+    </datafield>
+    <datafield tag="246" ind1="3" ind2=" ">
+      <subfield code="a">OCLC Acquisitions 350</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Dublin, Ohio :</subfield>
+      <subfield code="b">OCLC,</subfield>
+      <subfield code="c">©1988.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">2 volumes (loose-leaf) :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">23 cm.</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield tag="490" ind1="1" ind2=" ">
+      <subfield code="a">Microcomputer series</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Includes index.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Acquisitions (Libraries)</subfield>
+      <subfield code="v">Handbooks, manuals, etc.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Acquisitions (Libraries)</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00796015</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Handbooks and manuals.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423877</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">OCLC.</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">Microcomputer series.</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="3">OCLC Archives</subfield>
+      <subfield code="u">http://library.oclc.org.oclclibrary.idm.oclc.org/digital/collection/p15003coll70/id/76</subfield>
+    </datafield>
+    <datafield tag="994" ind1=" " ind2=" ">
+      <subfield code="a">92</subfield>
+      <subfield code="b">OCPSB</subfield>
+    </datafield>
+  </record>
+  <record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">ocm18653076 </controlfield>
+    <controlfield tag="003">OCoLC</controlfield>
+    <controlfield tag="005">20190827071203.3</controlfield>
+    <controlfield tag="008">881021s1988    ohu      f    000 0 eng d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">OCC</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">OCC</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCC</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">1556530641</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9781556530647</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">OCC</subfield>
+      <subfield code="c">/p15003coll70</subfield>
+      <subfield code="t">CNTNT</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)18653076</subfield>
+    </datafield>
+    <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">MAIN</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">ACQ350 profile workbook.</subfield>
+    </datafield>
+    <datafield tag="246" ind1="3" ind2=" ">
+      <subfield code="a">Acquisitions 350 profile workbook</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Dublin, OH :</subfield>
+      <subfield code="b">OCLC,</subfield>
+      <subfield code="c">©1988.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 volume (loose-leaf) ;</subfield>
+      <subfield code="c">28 cm</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">"September 1988."</subfield>
+    </datafield>
+    <datafield tag="610" ind1="2" ind2="0">
+      <subfield code="a">OCLC</subfield>
+      <subfield code="v">Handbooks, manuals, etc.</subfield>
+    </datafield>
+    <datafield tag="610" ind1="2" ind2="7">
+      <subfield code="a">OCLC.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00524808</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Acquisitions (Libraries)</subfield>
+      <subfield code="v">Handbooks, manuals, etc.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Acquisitions (Libraries)</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00796015</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Handbooks and manuals.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423877</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">OCLC.</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="3">OCLC Archives</subfield>
+      <subfield code="u">http://library.oclc.org.oclclibrary.idm.oclc.org/digital/collection/p15003coll70/id/0</subfield>
+    </datafield>
+    <datafield tag="994" ind1=" " ind2=" ">
+      <subfield code="a">92</subfield>
+      <subfield code="b">OCPSB</subfield>
+    </datafield>
+  </record>
+  <record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">ocm18896850 </controlfield>
+    <controlfield tag="003">OCoLC</controlfield>
+    <controlfield tag="005">20190827070828.7</controlfield>
+    <controlfield tag="008">881214s1988    ohua          000 0 eng d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">OCC</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">OCC</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCC</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">OCC</subfield>
+      <subfield code="c">/p15003coll71</subfield>
+      <subfield code="t">CNTNT</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)18896850</subfield>
+    </datafield>
+    <datafield tag="050" ind1=" " ind2="4">
+      <subfield code="a">HD59.2</subfield>
+      <subfield code="b">.O3 1988</subfield>
+    </datafield>
+    <datafield tag="082" ind1="0" ind2="4">
+      <subfield code="a">021.64</subfield>
+      <subfield code="b">O16, G946, 1988</subfield>
+    </datafield>
+    <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">MAIN</subfield>
+    </datafield>
+    <datafield tag="110" ind1="2" ind2=" ">
+      <subfield code="a">OCLC.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Guide to the use of the OCLC name and logo /</subfield>
+      <subfield code="c">OCLC Online Computer Library Center.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Dublin, OH :</subfield>
+      <subfield code="b">OCLC Online Computer Center,</subfield>
+      <subfield code="c">[1988]</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">14 pages :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">28 cm</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Pub. no. 657.</subfield>
+    </datafield>
+    <datafield tag="610" ind1="2" ind2="0">
+      <subfield code="a">OCLC.</subfield>
+    </datafield>
+    <datafield tag="610" ind1="2" ind2="7">
+      <subfield code="a">OCLC.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00524808</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Logos (Symbols)</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Logotypes (Printing)</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Trademarks.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Corporate image.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Corporate image.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00879659</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Logos (Symbols)</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01002130</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Logotypes (Printing)</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01002135</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Trademarks.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01153892</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="3">OCLC Archives</subfield>
+      <subfield code="u">http://library.oclc.org.oclclibrary.idm.oclc.org/digital/collection/p15003coll71/id/78</subfield>
+    </datafield>
+    <datafield tag="994" ind1=" " ind2=" ">
+      <subfield code="a">92</subfield>
+      <subfield code="b">OCPSB</subfield>
+    </datafield>
+  </record>
+  <record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">ocm19246647 </controlfield>
+    <controlfield tag="003">OCoLC</controlfield>
+    <controlfield tag="005">20190827070935.8</controlfield>
+    <controlfield tag="008">890222s1989    ohua     b    100 0 eng d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">OCC</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">OCC</subfield>
+      <subfield code="d">IAY</subfield>
+      <subfield code="d">QIP</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">EL$</subfield>
+      <subfield code="d">DRB</subfield>
+      <subfield code="d">SINLB</subfield>
+      <subfield code="d">ZWZ</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">YDXCP</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCC</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">NLC</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCC</subfield>
+    </datafield>
+    <datafield tag="019" ind1=" " ind2=" ">
+      <subfield code="a">232312469</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">1556530706</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9781556530708</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000007343297</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">GBVCP</subfield>
+      <subfield code="b">018467849</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">GBVCP</subfield>
+      <subfield code="b">01907316X</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">NLGGC</subfield>
+      <subfield code="b">085462055</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">OCC</subfield>
+      <subfield code="c">/p15003coll71</subfield>
+      <subfield code="t">CNTNT</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">ZWZ</subfield>
+      <subfield code="b">02101776X</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">NLC</subfield>
+      <subfield code="b">000009865243</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)19246647</subfield>
+      <subfield code="z">(OCoLC)232312469</subfield>
+    </datafield>
+    <datafield tag="050" ind1=" " ind2="4">
+      <subfield code="a">Z699.35.C38</subfield>
+      <subfield code="b">O62 1989</subfield>
+    </datafield>
+    <datafield tag="082" ind1="0" ind2="4">
+      <subfield code="a">025.3132</subfield>
+      <subfield code="2">20</subfield>
+    </datafield>
+    <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">MAIN</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">OPACs and beyond :</subfield>
+      <subfield code="b">proceedings of a joint meeting of the British Library, DBMIST, and OCLC, OCLC Online Computer Library Center, Inc., Dublin, Ohio, August 17-18, 1988.</subfield>
+    </datafield>
+    <datafield tag="246" ind1="3" ind2=" ">
+      <subfield code="a">Online public access catalogs and beyond</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Dublin, Ohio :</subfield>
+      <subfield code="b">OCLC Online Computer Library Center,</subfield>
+      <subfield code="c">©1989.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">viii, 120 pages :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">23 cm.</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield tag="490" ind1="1" ind2=" ">
+      <subfield code="a">OCLC library, information, and computer science series ;</subfield>
+      <subfield code="v">10</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Second invitational conference sponsored by the OCLC Office of Research for researchers from the British Library, the Direction des bibliothèques, des musées et de l'information scientifique et technique, and OCLC.</subfield>
+    </datafield>
+    <datafield tag="504" ind1=" " ind2=" ">
+      <subfield code="a">Includes bibliographical references.</subfield>
+    </datafield>
+    <datafield tag="505" ind1="1" ind2=" ">
+      <subfield code="a">Fulfilling OPAC requirements within the OCLC reference architecture / J. Thomas, P. Stevens, R. Metcalf. -- Managing large retrievals : a problem of the 1990s / C. Prabha. -- Subject authority control in online catalog design / D. Vizine-Goetz and K. Markey. -- Union catalogs on personal supercomputers / T.B. Hickey.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Online library catalogs</subfield>
+      <subfield code="v">Congresses.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Online library catalogs.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Online library catalogs.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01045961</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Catalogues de bibliothèques en ligne</subfield>
+      <subfield code="x">Congrès.</subfield>
+      <subfield code="2">ram</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Conference papers and proceedings.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423772</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">OCLC.</subfield>
+      <subfield code="b">Office of Research.</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">British Library.</subfield>
+    </datafield>
+    <datafield tag="710" ind1="1" ind2=" ">
+      <subfield code="a">France.</subfield>
+      <subfield code="b">Direction des bibliothèques, des musées et de l'information scientifique et technique.</subfield>
+    </datafield>
+    <datafield tag="776" ind1="0" ind2="8">
+      <subfield code="i">Online version:</subfield>
+      <subfield code="t">OPACs and beyond.</subfield>
+      <subfield code="d">Dublin, Ohio : OCLC Online Computer Library Center, ©1989</subfield>
+      <subfield code="w">(OCoLC)644602459</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">OCLC library, information, and computer science series ;</subfield>
+      <subfield code="v">10.</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="3">OCLC Archives</subfield>
+      <subfield code="u">http://library.oclc.org.oclclibrary.idm.oclc.org/digital/collection/p15003coll71/id/98</subfield>
+    </datafield>
+    <datafield tag="938" ind1=" " ind2=" ">
+      <subfield code="a">YBP Library Services</subfield>
+      <subfield code="b">YANK</subfield>
+      <subfield code="n">1171371</subfield>
+    </datafield>
+    <datafield tag="994" ind1=" " ind2=" ">
+      <subfield code="a">92</subfield>
+      <subfield code="b">OCPSB</subfield>
+    </datafield>
+  </record>
+  <record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">ocm20287628 </controlfield>
+    <controlfield tag="003">OCoLC</controlfield>
+    <controlfield tag="005">20190827065800.5</controlfield>
+    <controlfield tag="008">890831s1989    ohu      f    000 0 eng d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">OCC</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">OCC</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCC</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCC</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">1556530048</subfield>
+      <subfield code="q">(set)</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9781556530043</subfield>
+      <subfield code="q">(set)</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">1556530935</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9781556530937</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">OCC</subfield>
+      <subfield code="c">/p15003coll74</subfield>
+      <subfield code="t">CNTNT</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)20287628</subfield>
+    </datafield>
+    <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">MAIN</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">OCLC CJK350 Word Processing user manual.</subfield>
+    </datafield>
+    <datafield tag="246" ind1="3" ind2=" ">
+      <subfield code="a">CJK350 Word Processing user manual</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Dublin, Ohio :</subfield>
+      <subfield code="b">OCLC,</subfield>
+      <subfield code="c">©1989.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 volume (loose-leaf) ;</subfield>
+      <subfield code="c">28 cm.</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield tag="490" ind1="1" ind2=" ">
+      <subfield code="a">Microcomputer series</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">"The OCLC CJK350 Word Processing system allows editing of text in English, Chinese, Japanese, and Korean, individually or combined within the same document."</subfield>
+    </datafield>
+    <datafield tag="610" ind1="2" ind2="0">
+      <subfield code="a">OCLC</subfield>
+      <subfield code="v">Handbooks, manuals, etc.</subfield>
+    </datafield>
+    <datafield tag="610" ind1="2" ind2="7">
+      <subfield code="a">OCLC</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00524808</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Word processing</subfield>
+      <subfield code="v">Handbooks, manuals, etc.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">OCLC workstations.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Chinese character sets (Data processing)</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Japanese character sets (Data processing)</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Korean character sets (Data processing)</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Word processing</subfield>
+      <subfield code="x">Software.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Chinese character sets (Data processing)</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00857297</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Japanese character sets (Data processing)</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00981495</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Korean character sets (Data processing)</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00988673</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">OCLC workstations.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01042588</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Word processing.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01180127</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Handbooks and manuals.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423877</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Software.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411640</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">OCLC.</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">Microcomputer series.</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="3">OCLC Archives</subfield>
+      <subfield code="u">https://oclclibrary.idm.oclc.org/login?url=http://library.oclc.org.oclclibrary.idm.oclc.org/digital/collection/p15003coll74/id/333</subfield>
+    </datafield>
+    <datafield tag="994" ind1=" " ind2=" ">
+      <subfield code="a">92</subfield>
+      <subfield code="b">OCPSB</subfield>
+    </datafield>
+  </record>
+  <record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">ocm27864554 </controlfield>
+    <controlfield tag="003">OCoLC</controlfield>
+    <controlfield tag="005">20190827070601.9</controlfield>
+    <controlfield tag="008">930406s1993    ohua     f    000 0 eng d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">OCC</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">OCC</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCC</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCC</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000010935918</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">OCC</subfield>
+      <subfield code="c">/p15003coll36</subfield>
+      <subfield code="t">CNTNT</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)27864554</subfield>
+    </datafield>
+    <datafield tag="050" ind1=" " ind2="4">
+      <subfield code="a">Z699.4</subfield>
+      <subfield code="b">F571 1993</subfield>
+    </datafield>
+    <datafield tag="082" ind1="0" ind2="4">
+      <subfield code="a">025.04</subfield>
+    </datafield>
+    <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">MAIN</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">FirstSearch quicksearch guide.</subfield>
+    </datafield>
+    <datafield tag="246" ind1="3" ind2=" ">
+      <subfield code="a">First Search quicksearch guide</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">[Dublin, Ohio] :</subfield>
+      <subfield code="b">[OCLC],</subfield>
+      <subfield code="c">[1993]</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">10 leaves :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">22 cm</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Back cover folds out to form a stand.</subfield>
+    </datafield>
+    <datafield tag="610" ind1="2" ind2="0">
+      <subfield code="a">OCLC</subfield>
+      <subfield code="v">Handbooks, manuals, etc.</subfield>
+    </datafield>
+    <datafield tag="610" ind1="2" ind2="7">
+      <subfield code="a">OCLC.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00524808</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">FirstSearch (Information retrieval system)</subfield>
+      <subfield code="v">Handbooks, manuals, etc.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Online bibliographic searching</subfield>
+      <subfield code="v">Handbooks, manuals, etc.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Database searching</subfield>
+      <subfield code="v">Handbooks, manuals, etc.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Database searching.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00888058</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Online bibliographic searching.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01045925</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Handbooks and manuals.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423877</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">OCLC.</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="3">OCLC Archives</subfield>
+      <subfield code="u">https://oclclibrary.idm.oclc.org/login?url=http://library.oclc.org.oclclibrary.idm.oclc.org/digital/collection/p15003coll36/id/57</subfield>
+    </datafield>
+    <datafield tag="994" ind1=" " ind2=" ">
+      <subfield code="a">92</subfield>
+      <subfield code="b">OCPSB</subfield>
+    </datafield>
+  </record>
+  <record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">ocm27919802 </controlfield>
+    <controlfield tag="003">OCoLC</controlfield>
+    <controlfield tag="005">20190827065104.9</controlfield>
+    <controlfield tag="008">930414s1980    xx            000 0 eng d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">OCC</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">OCC</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCC</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">OCC</subfield>
+      <subfield code="c">/p267701coll27</subfield>
+      <subfield code="t">CNTNT</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)27919802</subfield>
+    </datafield>
+    <datafield tag="043" ind1=" " ind2=" ">
+      <subfield code="a">n-us-oh</subfield>
+    </datafield>
+    <datafield tag="050" ind1=" " ind2="4">
+      <subfield code="a">Z1003.3.O38</subfield>
+      <subfield code="b">C553 1980</subfield>
+    </datafield>
+    <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">MAIN</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Clark, Hugh M.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="4">
+      <subfield code="a">The Home Book Club :</subfield>
+      <subfield code="b">an evaluation and comment /</subfield>
+      <subfield code="c">prepared for OCLC ; prepared by Dr. Hugh M. Clark.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">[Place of publication not identified] :</subfield>
+      <subfield code="b">[publisher not identified],</subfield>
+      <subfield code="c">[1980?]</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 volume (various pagings) ;</subfield>
+      <subfield code="c">29 cm</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Books and reading.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Book reviewing.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Interactive television</subfield>
+      <subfield code="z">Ohio</subfield>
+      <subfield code="z">Columbus.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Book reviewing.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00836232</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Books and reading.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00836454</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Interactive television.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00976009</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="7">
+      <subfield code="a">Ohio</subfield>
+      <subfield code="z">Columbus.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01205076</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">OCLC.</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="3">OCLC Archives</subfield>
+      <subfield code="u">http://library.oclc.org.oclclibrary.idm.oclc.org/digital/collection/p267701coll27/id/4824</subfield>
+    </datafield>
+    <datafield tag="994" ind1=" " ind2=" ">
+      <subfield code="a">92</subfield>
+      <subfield code="b">OCPSB</subfield>
+    </datafield>
+  </record>
+  <record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cmm a2200000Ia 4500</leader>
+    <controlfield tag="001">ocm37498393 </controlfield>
+    <controlfield tag="003">OCoLC</controlfield>
+    <controlfield tag="005">20190827065131.3</controlfield>
+    <controlfield tag="006">suu     r   0   a0</controlfield>
+    <controlfield tag="006">aa     r    001 0 </controlfield>
+    <controlfield tag="007">cr cnu||||||||</controlfield>
+    <controlfield tag="008">970819m199u9999cou     o  m        eng d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">UOK</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">UOK</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)37498393</subfield>
+    </datafield>
+    <datafield tag="043" ind1=" " ind2=" ">
+      <subfield code="a">n-us---</subfield>
+    </datafield>
+    <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">MAIN</subfield>
+    </datafield>
+    <datafield tag="130" ind1="0" ind2=" ">
+      <subfield code="a">Consulting-specifying engineer.</subfield>
+      <subfield code="p">Specifier's guide (Online)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Consulting-specifying engineer.</subfield>
+      <subfield code="p">Specifier's guide.</subfield>
+    </datafield>
+    <datafield tag="246" ind1="1" ind2=" ">
+      <subfield code="i">Additional title on opening screen:</subfield>
+      <subfield code="a">C-SE interactive specifiers' guide</subfield>
+    </datafield>
+    <datafield tag="246" ind1="3" ind2=" ">
+      <subfield code="a">Consulting-specifying engineer interactive specifiers' guide</subfield>
+    </datafield>
+    <datafield tag="246" ind1="3" ind2=" ">
+      <subfield code="a">Interactive specifiers' guide</subfield>
+    </datafield>
+    <datafield tag="246" ind1="3" ind2="0">
+      <subfield code="a">Specifier's guide</subfield>
+    </datafield>
+    <datafield tag="270" ind1=" " ind2=" ">
+      <subfield code="a">Cahners Pub. Co.</subfield>
+      <subfield code="a">8773 S. Ridgeline Blvd.</subfield>
+      <subfield code="b">Highlands Ranch</subfield>
+      <subfield code="c">CO</subfield>
+      <subfield code="e">80126-2329</subfield>
+      <subfield code="k">1 (303) 470-4445</subfield>
+    </datafield>
+    <datafield tag="516" ind1=" " ind2=" ">
+      <subfield code="a">Electronic text.</subfield>
+    </datafield>
+    <datafield tag="538" ind1=" " ind2=" ">
+      <subfield code="a">Mode of access: Internet.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Title from introductory paragraph on opening screen.</subfield>
+    </datafield>
+    <datafield tag="530" ind1=" " ind2=" ">
+      <subfield code="a">Issued also in a print version.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Electronic industries</subfield>
+      <subfield code="z">United States</subfield>
+      <subfield code="v">Directories.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Manufacturing industries</subfield>
+      <subfield code="z">United States</subfield>
+      <subfield code="v">Directories.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Electronic industries.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00907240</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Manufacturing industries.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01008071</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="7">
+      <subfield code="a">United States.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204155</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Directories.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423796</subfield>
+    </datafield>
+    <datafield tag="730" ind1="0" ind2=" ">
+      <subfield code="a">Consulting-specifying engineer.</subfield>
+    </datafield>
+    <datafield tag="772" ind1="1" ind2=" ">
+      <subfield code="a">Consulting-specifying engineer</subfield>
+      <subfield code="x">0892-5046</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2=" ">
+      <subfield code="u">http://www.csemag.com/guide/bgindex.htm</subfield>
+    </datafield>
+    <datafield tag="994" ind1=" " ind2=" ">
+      <subfield code="a">92</subfield>
+      <subfield code="b">OCPSB</subfield>
+    </datafield>
+  </record>
+  <record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000 a 4500</leader>
+    <controlfield tag="001">ocm37584037 </controlfield>
+    <controlfield tag="003">OCoLC</controlfield>
+    <controlfield tag="005">20190827070613.5</controlfield>
+    <controlfield tag="008">970908s1997    ohua          000 0 eng d</controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">   98138944 </subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">OCL</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DLC</subfield>
+      <subfield code="d">OCC</subfield>
+      <subfield code="d">UIU</subfield>
+      <subfield code="d">MBU</subfield>
+      <subfield code="d">ZJC</subfield>
+      <subfield code="d">BTCTA</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCC</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000013619347</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">OCC</subfield>
+      <subfield code="c">/p15003coll71</subfield>
+      <subfield code="t">CNTNT</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)37584037</subfield>
+    </datafield>
+    <datafield tag="042" ind1=" " ind2=" ">
+      <subfield code="a">lccopycat</subfield>
+    </datafield>
+    <datafield tag="050" ind1="0" ind2="0">
+      <subfield code="a">Z674.82.O15</subfield>
+      <subfield code="b">O12 1997</subfield>
+    </datafield>
+    <datafield tag="060" ind1=" " ind2="4">
+      <subfield code="a">Z 674.82 .O15 O16b 1997</subfield>
+    </datafield>
+    <datafield tag="082" ind1="0" ind2="0">
+      <subfield code="a">021.6/42</subfield>
+      <subfield code="2">21</subfield>
+    </datafield>
+    <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">MAIN</subfield>
+    </datafield>
+    <datafield tag="110" ind1="2" ind2=" ">
+      <subfield code="a">OCLC.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Beyond 2000 :</subfield>
+      <subfield code="b">a summary of OCLC's strategic plan.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Dublin, Ohio :</subfield>
+      <subfield code="b">OCLC Online Computer Library Center,</subfield>
+      <subfield code="c">[1997]</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">36 pages :</subfield>
+      <subfield code="b">color illustrations ;</subfield>
+      <subfield code="c">28 cm</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Cover title.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">"Product code MAN 2024, 9708/10085Q-30M, TPC"--Page 4 of cover.</subfield>
+    </datafield>
+    <datafield tag="610" ind1="2" ind2="0">
+      <subfield code="a">OCLC.</subfield>
+    </datafield>
+    <datafield tag="610" ind1="2" ind2="7">
+      <subfield code="a">OCLC.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00524808</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Library information networks.</subfield>
+    </datafield>
+    <datafield tag="650" ind1="1" ind2="2">
+      <subfield code="a">Information Systems.</subfield>
+    </datafield>
+    <datafield tag="650" ind1="1" ind2="2">
+      <subfield code="a">Libraries.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Library information networks.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00997774</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="3">OCLC Archives</subfield>
+      <subfield code="u">https://oclclibrary.idm.oclc.org/login?url=http://library.oclc.org.oclclibrary.idm.oclc.org/digital/collection/p15003coll71/id/343</subfield>
+    </datafield>
+    <datafield tag="938" ind1=" " ind2=" ">
+      <subfield code="a">Baker and Taylor</subfield>
+      <subfield code="b">BTCP</subfield>
+      <subfield code="n">98138944</subfield>
+    </datafield>
+    <datafield tag="994" ind1=" " ind2=" ">
+      <subfield code="a">92</subfield>
+      <subfield code="b">OCPSB</subfield>
+    </datafield>
+  </record>
+  <record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000 a 4500</leader>
+    <controlfield tag="001">ocm37906600 </controlfield>
+    <controlfield tag="003">OCoLC</controlfield>
+    <controlfield tag="005">20190827070901.2</controlfield>
+    <controlfield tag="008">971107s1997    ohu      bf   000 0 eng c</controlfield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">OCC</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">OCC</subfield>
+      <subfield code="d">WAU</subfield>
+      <subfield code="d">COU</subfield>
+      <subfield code="d">WAU</subfield>
+      <subfield code="d">VPL</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">BAKER</subfield>
+      <subfield code="d">WAU</subfield>
+      <subfield code="d">LVB</subfield>
+      <subfield code="d">STF</subfield>
+      <subfield code="d">YDXCP</subfield>
+      <subfield code="d">ZWZ</subfield>
+      <subfield code="d">DEBBG</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCC</subfield>
+      <subfield code="d">CKK</subfield>
+      <subfield code="d">IOG</subfield>
+      <subfield code="d">NJR</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">CSA</subfield>
+      <subfield code="d">OCC</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">LGG</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCL</subfield>
+    </datafield>
+    <datafield tag="019" ind1=" " ind2=" ">
+      <subfield code="a">38170362</subfield>
+      <subfield code="a">38873120</subfield>
+      <subfield code="a">47302908</subfield>
+      <subfield code="a">428426626</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">1556532369</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9781556532368</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000013597021</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000054437011</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">DEBBG</subfield>
+      <subfield code="b">BV011691504</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">NZ1</subfield>
+      <subfield code="b">4758307</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">ZWZ</subfield>
+      <subfield code="b">052227391</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">OCC</subfield>
+      <subfield code="c">/p15003coll74</subfield>
+      <subfield code="t">CNTNT</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)37906600</subfield>
+      <subfield code="z">(OCoLC)38170362</subfield>
+      <subfield code="z">(OCoLC)38873120</subfield>
+      <subfield code="z">(OCoLC)47302908</subfield>
+      <subfield code="z">(OCoLC)428426626</subfield>
+    </datafield>
+    <datafield tag="042" ind1=" " ind2=" ">
+      <subfield code="a">pcc</subfield>
+    </datafield>
+    <datafield tag="050" ind1=" " ind2="4">
+      <subfield code="a">Z695.24</subfield>
+      <subfield code="b">.C38 1997</subfield>
+    </datafield>
+    <datafield tag="050" ind1=" " ind2="4">
+      <subfield code="a">Z695.24</subfield>
+      <subfield code="b">.C35 1997</subfield>
+    </datafield>
+    <datafield tag="060" ind1=" " ind2="4">
+      <subfield code="a">Z 695.24</subfield>
+      <subfield code="b">C357 1997</subfield>
+    </datafield>
+    <datafield tag="082" ind1="0" ind2="4">
+      <subfield code="a">025.344</subfield>
+      <subfield code="b">O52ci 1997</subfield>
+    </datafield>
+    <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">MAIN</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Cataloging Internet resources :</subfield>
+      <subfield code="b">a manual and practical guide /</subfield>
+      <subfield code="c">Nancy B. Olson, editor.</subfield>
+    </datafield>
+    <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">2nd ed.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Dublin, Ohio :</subfield>
+      <subfield code="b">OCLC,</subfield>
+      <subfield code="c">©1997.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">viii, 55 pages ;</subfield>
+      <subfield code="c">28 cm</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield tag="504" ind1=" " ind2=" ">
+      <subfield code="a">Includes bibliographical references (page 55).</subfield>
+    </datafield>
+    <datafield tag="530" ind1=" " ind2=" ">
+      <subfield code="a">Also available electronically via Internet.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Cataloging of computer network resources</subfield>
+      <subfield code="v">Handbooks, manuals, etc.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Descriptive cataloging</subfield>
+      <subfield code="x">Rules</subfield>
+      <subfield code="v">Handbooks, manuals, etc.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="6">
+      <subfield code="a">Catalogage</subfield>
+      <subfield code="x">Information électronique.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Descriptive cataloging</subfield>
+      <subfield code="x">Rules.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00891128</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Cataloging of computer network resources.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00848734</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Alphabetische Katalogisierung</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Dokument</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Richtlinie</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Publications électroniques</subfield>
+      <subfield code="x">Catalogage.</subfield>
+      <subfield code="2">ram</subfield>
+    </datafield>
+    <datafield tag="650" ind1="0" ind2="7">
+      <subfield code="a">Internet.</subfield>
+      <subfield code="2">swd</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="2">
+      <subfield code="a">Cataloging.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="2">
+      <subfield code="a">Internet.</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Handbooks and manuals.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423877</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Olson, Nancy B.</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">OCLC.</subfield>
+    </datafield>
+    <datafield tag="776" ind1="0" ind2="8">
+      <subfield code="i">Online version:</subfield>
+      <subfield code="t">Cataloging Internet resources.</subfield>
+      <subfield code="b">2nd ed.</subfield>
+      <subfield code="d">Dublin, Ohio : OCLC, ©1997</subfield>
+      <subfield code="w">(OCoLC)741859421</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="1">
+      <subfield code="z">Electronic version (http://www.purl.org/oclc/cataloging-internet) no longer available when searched on Nov. 8, 2006</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2=" ">
+      <subfield code="u">http://www.purl.org/oclc/cataloging-internet</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="3">OCLC Archives</subfield>
+      <subfield code="u">http://library.oclc.org.oclclibrary.idm.oclc.org/digital/collection/p15003coll74/id/165</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="1">
+      <subfield code="u">http://www.oclc.org/oclc/man/9256cat/toc.htm</subfield>
+      <subfield code="z">Cataloging Internet resources (Online)</subfield>
+    </datafield>
+    <datafield tag="938" ind1=" " ind2=" ">
+      <subfield code="a">Baker &amp; Taylor</subfield>
+      <subfield code="b">BKTY</subfield>
+      <subfield code="c">0.01</subfield>
+      <subfield code="d">4.96</subfield>
+      <subfield code="i">1556532369</subfield>
+      <subfield code="n">0004150803</subfield>
+      <subfield code="s">active</subfield>
+    </datafield>
+    <datafield tag="938" ind1=" " ind2=" ">
+      <subfield code="a">YBP Library Services</subfield>
+      <subfield code="b">YANK</subfield>
+      <subfield code="n">1515546</subfield>
+    </datafield>
+    <datafield tag="994" ind1=" " ind2=" ">
+      <subfield code="a">92</subfield>
+      <subfield code="b">OCPSB</subfield>
+    </datafield>
+  </record>
+  <record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ja 4500</leader>
+    <controlfield tag="001">ocm38255534 </controlfield>
+    <controlfield tag="003">OCoLC</controlfield>
+    <controlfield tag="005">20190827065357.3</controlfield>
+    <controlfield tag="008">980123s1997    miua     b    000 0deng d</controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">   98153009 </subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">TxSaSM</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DLC</subfield>
+      <subfield code="d">SNM</subfield>
+      <subfield code="d">NRM</subfield>
+      <subfield code="d">UUC</subfield>
+      <subfield code="d">BTCTA</subfield>
+      <subfield code="d">ZAD</subfield>
+      <subfield code="d">VVB</subfield>
+      <subfield code="d">TXBXL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">CHILD</subfield>
+      <subfield code="d">GILDS</subfield>
+      <subfield code="d">MUO</subfield>
+    </datafield>
+    <datafield tag="019" ind1=" " ind2=" ">
+      <subfield code="a">39782992</subfield>
+      <subfield code="a">659966321</subfield>
+      <subfield code="a">731206928</subfield>
+      <subfield code="a">732696580</subfield>
+      <subfield code="a">732808934</subfield>
+      <subfield code="a">772776628</subfield>
+      <subfield code="a">862304991</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">0787616907</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780787616908</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">0787616915</subfield>
+      <subfield code="q">(v. 2)</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780787616915</subfield>
+      <subfield code="q">(v. 2)</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">0787622184</subfield>
+      <subfield code="q">(v. 3)</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780787622183</subfield>
+      <subfield code="q">(v. 3)</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">NZ1</subfield>
+      <subfield code="b">14029955</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">NZ1</subfield>
+      <subfield code="b">15979435</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">NZ1</subfield>
+      <subfield code="b">4938352</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)38255534</subfield>
+      <subfield code="z">(OCoLC)39782992</subfield>
+      <subfield code="z">(OCoLC)659966321</subfield>
+      <subfield code="z">(OCoLC)731206928</subfield>
+      <subfield code="z">(OCoLC)732696580</subfield>
+      <subfield code="z">(OCoLC)732808934</subfield>
+      <subfield code="z">(OCoLC)772776628</subfield>
+      <subfield code="z">(OCoLC)862304991</subfield>
+    </datafield>
+    <datafield tag="042" ind1=" " ind2=" ">
+      <subfield code="a">lccopycat</subfield>
+    </datafield>
+    <datafield tag="050" ind1="1" ind2="4">
+      <subfield code="a">PN3373</subfield>
+      <subfield code="b">.S3845 1997</subfield>
+    </datafield>
+    <datafield tag="082" ind1="0" ind2="0">
+      <subfield code="a">809.3/1</subfield>
+    </datafield>
+    <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">MAIN</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Short stories for students :</subfield>
+      <subfield code="b">presenting analysis, context, and criticism on commonly studied short stories /</subfield>
+      <subfield code="c">Kathleen Wilson, Editor.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Detroit :</subfield>
+      <subfield code="b">Gale,</subfield>
+      <subfield code="c">©1997.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">2 volumes :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">29 cm</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Each entry contains author biography, plot summary, characters, themes, style, historical context, critical overview, and criticism.</subfield>
+    </datafield>
+    <datafield tag="505" ind1="0" ind2="0">
+      <subfield code="t">Vol 1: Araby /</subfield>
+      <subfield code="r">James Joyce --</subfield>
+      <subfield code="t">Celebrated jumping frog of Calaveras County /</subfield>
+      <subfield code="r">Mark Twain --</subfield>
+      <subfield code="t">Children of the sea /</subfield>
+      <subfield code="r">Edwidge Danticat --</subfield>
+      <subfield code="t">Devil and Tom Walker /</subfield>
+      <subfield code="r">Washington Irving --</subfield>
+      <subfield code="t">Eatonville anthology /</subfield>
+      <subfield code="r">Zora Neale Hurston --</subfield>
+      <subfield code="t">Handsomest drowned man in the world /</subfield>
+      <subfield code="r">Gabriel Garcia Marquez --</subfield>
+      <subfield code="t">I stand here ironing /</subfield>
+      <subfield code="r">Tillie Olsen --</subfield>
+      <subfield code="t">Jilting of Granny Weatherall /</subfield>
+      <subfield code="r">Katherine Anne Porter --</subfield>
+      <subfield code="t">King of the Bingo game /</subfield>
+      <subfield code="r">Ralph Ellison --</subfield>
+      <subfield code="t">Lottery /</subfield>
+      <subfield code="r">Shirley Jackson --</subfield>
+      <subfield code="t">Most dangerous game /</subfield>
+      <subfield code="r">Richard Connell --</subfield>
+      <subfield code="t">Open window /</subfield>
+      <subfield code="r">Saki --</subfield>
+      <subfield code="t">Secret life of Walter Mitty /</subfield>
+      <subfield code="r">James Thurber --</subfield>
+      <subfield code="t">Secret sharer /</subfield>
+      <subfield code="r">Joseph Conrad --</subfield>
+      <subfield code="t">Short, happy life of Francis Macomber /</subfield>
+      <subfield code="r">Ernest Hemingway --</subfield>
+      <subfield code="t">There will come soft rains /</subfield>
+      <subfield code="r">Ray Bradbury --</subfield>
+      <subfield code="t">Through the tunnel /</subfield>
+      <subfield code="r">Doris Lessing --</subfield>
+      <subfield code="t">Where are you going, where have you been? /</subfield>
+      <subfield code="r">Joyce Carol Oates --</subfield>
+      <subfield code="t">Yellow wallpaper /</subfield>
+      <subfield code="r">Charlotte Perkins Gilman --</subfield>
+      <subfield code="t">Young Goodman Brown /</subfield>
+      <subfield code="r">Nathaniel Hawthorne. Vol 2:</subfield>
+      <subfield code="t">Bear /</subfield>
+      <subfield code="r">William Faulkner --</subfield>
+      <subfield code="t">Christmas memory /</subfield>
+      <subfield code="r">Truman Capote --</subfield>
+      <subfield code="t">Everyday use /</subfield>
+      <subfield code="r">Alice Walker --</subfield>
+      <subfield code="t">Fall of the House of Usher /</subfield>
+      <subfield code="r">Edgar Allan Poe --</subfield>
+      <subfield code="t">Gift of the Magi /</subfield>
+      <subfield code="r">O. Henry --</subfield>
+      <subfield code="t">Gimpel the Fool /</subfield>
+      <subfield code="r">Esaac Bashevis Singer --</subfield>
+      <subfield code="t">A good man is hard to find /</subfield>
+      <subfield code="r">Flannery O'Connor --</subfield>
+      <subfield code="t">In the cemetery where Al Jolson is buried /</subfield>
+      <subfield code="r">Amy Hempel --</subfield>
+      <subfield code="t">Miss Brill /</subfield>
+      <subfield code="r">Katherine Mansfield --</subfield>
+      <subfield code="t">Monkey's paw /</subfield>
+      <subfield code="r">W.W. Jacobs --</subfield>
+      <subfield code="t">Occurrence at Owl Creek bridge /</subfield>
+      <subfield code="r">Ambrose Bierce --</subfield>
+      <subfield code="t">Ones who walk away from Omelas /</subfield>
+      <subfield code="r">Ursula K. Le Guin --</subfield>
+      <subfield code="t">Paul's case /</subfield>
+      <subfield code="r">Willa Cather --</subfield>
+      <subfield code="t">Red-headed league /</subfield>
+      <subfield code="r">Arthur Conan Doyle --</subfield>
+      <subfield code="t">Rocking-horse winner /</subfield>
+      <subfield code="r">D.H. Lawrence --</subfield>
+      <subfield code="t">Sonny's blues /</subfield>
+      <subfield code="r">James Baldwin --</subfield>
+      <subfield code="t">Story of an hour /</subfield>
+      <subfield code="r">Kate Chopin --</subfield>
+      <subfield code="t">Swimmer /</subfield>
+      <subfield code="r">John Cheever --</subfield>
+      <subfield code="t">Train from Rhodesia /</subfield>
+      <subfield code="r">Nadine Gordimer --</subfield>
+      <subfield code="t">Worn path /</subfield>
+      <subfield code="r">Eudora Welty.</subfield>
+    </datafield>
+    <datafield tag="504" ind1=" " ind2=" ">
+      <subfield code="a">Includes bibliographical references.</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Each entry contains author biography, plot summary, characters, themes, style, historical context, critical overview and criticism.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Short story.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Short stories</subfield>
+      <subfield code="x">Stories, plots, etc.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="1">
+      <subfield code="a">Literature</subfield>
+      <subfield code="v">Bio-bibliography.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="1">
+      <subfield code="a">Literature</subfield>
+      <subfield code="x">History and criticism.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Short stories.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01117043</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Short story.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01117446</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Stories, plots, etc.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423908</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="4">
+      <subfield code="a">Stories, plots, etc.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Wilson, Kathleen.</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://trmproxy.mnpals.net/login?url=http://go.galegroup.com/ps/aboutSeries.do?userGroupName=mnalll&amp;inPS=true&amp;prodId=GVRL&amp;seriesId=0QME</subfield>
+    </datafield>
+    <datafield tag="938" ind1=" " ind2=" ">
+      <subfield code="a">Children's Plus, Inc.</subfield>
+      <subfield code="b">CHIL</subfield>
+      <subfield code="n">1598260</subfield>
+    </datafield>
+    <datafield tag="938" ind1=" " ind2=" ">
+      <subfield code="a">Children's Plus, Inc.</subfield>
+      <subfield code="b">CHIL</subfield>
+      <subfield code="n">1598259</subfield>
+    </datafield>
+    <datafield tag="938" ind1=" " ind2=" ">
+      <subfield code="a">Baker and Taylor</subfield>
+      <subfield code="b">BTCP</subfield>
+      <subfield code="n">98153009</subfield>
+    </datafield>
+    <datafield tag="994" ind1=" " ind2=" ">
+      <subfield code="a">92</subfield>
+      <subfield code="b">OCPSB</subfield>
+    </datafield>
+  </record>
+  <record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">ocm38367561 </controlfield>
+    <controlfield tag="003">OCoLC</controlfield>
+    <controlfield tag="005">20190827071147.2</controlfield>
+    <controlfield tag="008">980206s1997    ohua     f    000 0 eng d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">OCC</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">OCC</subfield>
+      <subfield code="d">COU</subfield>
+      <subfield code="d">ZJC</subfield>
+      <subfield code="d">WAU</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCC</subfield>
+      <subfield code="d">OCLCA</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">1556532431</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9781556532436</subfield>
+    </datafield>
+    <datafield tag="029" ind1="1" ind2=" ">
+      <subfield code="a">OCC</subfield>
+      <subfield code="c">/p15003coll74</subfield>
+      <subfield code="t">CNTNT</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)38367561</subfield>
+    </datafield>
+    <datafield tag="050" ind1=" " ind2="4">
+      <subfield code="a">Z699.4.O29</subfield>
+      <subfield code="b">L42 1997</subfield>
+    </datafield>
+    <datafield tag="060" ind1=" " ind2="4">
+      <subfield code="a">Z 674.82 .O15</subfield>
+      <subfield code="b">C3652 1997</subfield>
+    </datafield>
+    <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">MAIN</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Learning to use OCLC CatME for Windows.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Dublin, Ohio :</subfield>
+      <subfield code="b">OCLC Online Computer Library Center,</subfield>
+      <subfield code="c">©1997.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 volume (various pagings) :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">28 cm</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">"Product code MAN2127, 9712/10223W--1.5M, OCLC"--Page 4 of cover.</subfield>
+    </datafield>
+    <datafield tag="630" ind1="0" ind2="0">
+      <subfield code="a">OCLC CatME for Windows</subfield>
+      <subfield code="v">Handbooks, manuals, etc.</subfield>
+    </datafield>
+    <datafield tag="630" ind1="0" ind2="7">
+      <subfield code="a">OCLC CatME for Windows.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01788743</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Cataloging</subfield>
+      <subfield code="x">Data processing</subfield>
+      <subfield code="v">Handbooks, manuals, etc.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Cataloging</subfield>
+      <subfield code="x">Computer programs</subfield>
+      <subfield code="v">Handbooks, manuals, etc.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Machine-readable bibliographic data</subfield>
+      <subfield code="v">Handbooks, manuals, etc.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Online data processing</subfield>
+      <subfield code="v">Handbooks, manuals, etc.</subfield>
+    </datafield>
+    <datafield tag="650" ind1="1" ind2="2">
+      <subfield code="a">Cataloging.</subfield>
+    </datafield>
+    <datafield tag="650" ind1="2" ind2="2">
+      <subfield code="a">Databases, Bibliographic.</subfield>
+    </datafield>
+    <datafield tag="650" ind1="2" ind2="2">
+      <subfield code="a">Library Technical Services.</subfield>
+    </datafield>
+    <datafield tag="650" ind1="2" ind2="2">
+      <subfield code="a">Computer User Training.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Cataloging</subfield>
+      <subfield code="x">Computer programs.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00848662</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Cataloging</subfield>
+      <subfield code="x">Data processing.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00848666</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Machine-readable bibliographic data.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01004855</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Online data processing.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01045942</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Handbooks and manuals.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423877</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">OCLC.</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="3">OCLC Archives</subfield>
+      <subfield code="u">http://library.oclc.org.oclclibrary.idm.oclc.org/digital/collection/p15003coll74/id/111</subfield>
+    </datafield>
+    <datafield tag="994" ind1=" " ind2=" ">
+      <subfield code="a">92</subfield>
+      <subfield code="b">OCPSB</subfield>
+    </datafield>
+  </record>
+</collection>
