@@ -12,7 +12,7 @@ with open("prod_config.yml", 'r') as stream:
 awsauth = AWS4Auth(credentials.access_key, credentials.secret_key, config.get('region'), config.get('service'))
 
 es = Elasticsearch(
-    hosts = [{'host': config.get('eshost'), 'port': 443}],
+    hosts = [{'host': "search-wms-example-data-ys7sb4o6l2qka35yinyehh474y.us-east-1.es.amazonaws.com", 'port': 443}],
     http_auth = awsauth,
     use_ssl = True,
     verify_certs = True,
@@ -44,56 +44,62 @@ def indexFile(item_file):
         del row['Language_Code']
         # loop through and normalize call number
         if row['Item_Call_Number']:
-            normalizedNumber = pycn.callnumber(row['Item_Call_Number'])
-            row['cn_type'] = normalizedNumber.__class__.__name__
             try:
-                row['cn_classification'] = str(normalizedNumber.classification)
-            except AttributeError:
-                row['cn_classification'] = ""            
-            if isinstance(normalizedNumber, pycn.units.LC):
+                normalizedNumber = pycn.callnumber(row['Item_Call_Number'])
+                row['cn_type'] = normalizedNumber.__class__.__name__
                 try:
-                    row['cn_class_letters'] = str(normalizedNumber.classification.letters)
+                    row['cn_classification'] = str(normalizedNumber.classification)
                 except AttributeError:
-                    row['cn_class_letters'] = ""
-            row['n_callnumber_sort'] = normalizedNumber.for_sort()
-            row['n_callnumber_search'] = normalizedNumber.for_search()
+                    row['cn_classification'] = ""            
+                if isinstance(normalizedNumber, pycn.units.LC):
+                    try:
+                        row['cn_class_letters'] = str(normalizedNumber.classification.letters)
+                    except AttributeError:
+                        row['cn_class_letters'] = ""
+                row['n_callnumber_sort'] = normalizedNumber.for_sort()
+                row['n_callnumber_search'] = normalizedNumber.for_search()
+            except pycn.exceptions.InvalidCallNumberStringError:
+                row['cn_type'] = ""
+                row['cn_classification'] = ""
+                row['cn_class_letters'] = ""
+                row['n_callnumber_sort'] = ""
+                row['n_callnumber_search'] = ""
+                
         if not row['Publication_Date']:
             row['Publication_Date'] = None
         file_data.append(row)                                    
     
-    es.indices.delete(index='items', ignore=[400, 404])
+    es.indices.delete(index='ocpsb_items', ignore=[400, 404])
     
     mapping = {
                 "mappings":{
-                    "_doc":{
-                        "properties": {
-                            "Institution_Symbol": {"type": "text"},
-                            "Item_Holding_Location": {"type": "text", "fielddata": "true"},
-                            "Item_Permanent_Shelving_Location": {"type": "text", "fielddata": "true"},
-                            "Item_Temporary_Shelving_Location": {"type": "text", "fielddata": "true"},
-                            "Item_Type": {"type": "text"},
-                            "Item_Call_Number": {"type": "text"},                            
-                            "Item_Enumeration_and_Chronology": {"type": "text"},
-                            "Author_Name": {"type": "text"},
-                            "Title": {"type": "text"},
-                            "Material_Format": {"type": "text", "fielddata": "true"},
-                            "OCLC_Number": {"type": "text"},
-                            "Item_Barcode": {"type": "text"},
-                            "Item_Status_Current_Status": {"type": "text", "fielddata": "true"},
-                            "n_callnumber_sort": {"type": "text", "fielddata": "true"},
-                            "n_callnumber_search": {"type": "text","fielddata": "true"},
-                            "cn_classification": {"type": "text","fielddata": "true"},
-                            "cn_class_letters": {"type": "text","fielddata": "true"}, 
-                            "cn_type": {"type": "text","fielddata": "true"},
-                            "Publication_Date": {"type": "date", "format": "Y", "ignore_malformed": "true"}
-                        }
+                    "properties": {
+                        "Institution_Symbol": {"type": "text"},
+                        "Item_Holding_Location": {"type": "text", "fielddata": "true"},
+                        "Item_Permanent_Shelving_Location": {"type": "text", "fielddata": "true"},
+                        "Item_Temporary_Shelving_Location": {"type": "text", "fielddata": "true"},
+                        "Item_Type": {"type": "text"},
+                        "Item_Call_Number": {"type": "text"},                            
+                        "Item_Enumeration_and_Chronology": {"type": "text"},
+                        "Author_Name": {"type": "text"},
+                        "Title": {"type": "text"},
+                        "Material_Format": {"type": "text", "fielddata": "true"},
+                        "OCLC_Number": {"type": "text"},
+                        "Item_Barcode": {"type": "text"},
+                        "Item_Status_Current_Status": {"type": "text", "fielddata": "true"},
+                        "n_callnumber_sort": {"type": "text", "fielddata": "true"},
+                        "n_callnumber_search": {"type": "text","fielddata": "true"},
+                        "cn_classification": {"type": "text","fielddata": "true"},
+                        "cn_class_letters": {"type": "text","fielddata": "true"}, 
+                        "cn_type": {"type": "text","fielddata": "true"},
+                        "Publication_Date": {"type": "date", "format": "Y", "ignore_malformed": "true"}
                     }
                 }
             }                
-    es.indices.create(index='items', body=mapping)
-    helpers.bulk(es, file_data, index='items', doc_type='_doc')
+    es.indices.create(index='ocpsb_items', body=mapping)
+    helpers.bulk(es, file_data, index='ocpsb_items', doc_type='_doc')
     
     return "success"
 
-file = "item_test.txt"        
+file = "inventory.txt"        
 print(indexFile(file))     
