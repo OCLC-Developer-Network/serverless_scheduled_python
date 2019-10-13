@@ -56,6 +56,9 @@ def run(event, context):
                         "Material Subformat": {"type": "keyword"},
                         "Local Item Permanent Shelving Location": {"type": "keyword"},
                         "OCLC Number": {"type": "keyword"},
+                        "Conspectus Subject": {"type": "keyword"},
+                        "Library of Congress Call Number": {"type": "keyword"},
+                        "Dewey Call Number": {"type": "keyword"},
                         "Calendar Date": {"type": "date", "format": "yyyy/MM/dd HH:mm:ss||yyyy/MM/dd"}
                     }
                 }
