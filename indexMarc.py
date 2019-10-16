@@ -6,7 +6,6 @@ import pycallnumber as pycn
 from requests_aws4auth import AWS4Auth
 import yaml
 from pymarc import parse_xml_to_array
-from nntplib import subject
 
 credentials = boto3.Session().get_credentials()
 
