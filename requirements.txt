@@ -6,7 +6,7 @@ docutils==0.15.2
 elasticsearch==7.0.5
 idna==2.8
 jmespath==0.9.4
-lxml==4.4.1
+lxml==4.6.5
 pycallnumber==0.1.4
 pymarc==3.1.13
 pyoai==2.5.0
